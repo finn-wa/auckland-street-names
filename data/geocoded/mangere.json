@@ -1,0 +1,861 @@
+[
+  [-36.953848, 174.816628, "Abiru Crescent", "Off Bicknell. Japanese for “to pour over or shower”."],
+  [-36.957568, 174.802735, "Agar Place", "Off Hall. William Agar was an English landowner from North Pancras Station."],
+  [
+    -36.976017,
+    174.77689,
+    "Aintree Avenue",
+    "Off Ascot. The stables were in Montgomerie. Named after the English racecourse."
+  ],
+  [-36.955901, 174.832971, "Alderman Place", "Off Savill. Jack Alderman was a carpenter with B.M.A. Construction."],
+  [-36.954861, 174.80222, "Alderson Lane", "Off Tilberg."],
+  [
+    -36.971724,
+    174.82234,
+    "Allen Avenue",
+    "Off Buckland to Henwood. A son of W.F. Massey. In 1937 it had four residential houses."
+  ],
+  [
+    -36.945807,
+    174.767481,
+    "Ambury Road",
+    "Off Muir. Ambury Brothers were farmers, milk suppliers and exporters. Named before 1942."
+  ],
+  [-36.979186, 174.784157, "Amelia Earhart Avenue", "Off Richard Pearse. The aviatrix who flew the Tasman."],
+  [-36.945137, 174.769885, "Anarahi Place", "Off Waterloo. Many caves."],
+  [
+    -36.943174,
+    174.764068,
+    "Andes Avenue",
+    "Off Kiwi. Named for the troop ship, and the range of mountains in South America."
+  ],
+  [-36.975228, 174.780034, "Andrew Baxter Drive", "Off Ascot. Baxter and Grant were industrial estate developers."],
+  [
+    -37.00571,
+    174.791668,
+    "Andrew McKee Avenue",
+    "Off George Bolt Drive. Air Marshall Sir A. McKee was a director of the National Airways Corporation (NAC) and Air New Zealand."
+  ],
+  [-36.968263, 174.788628, "Anson Row", "Off Wimpey-Solent. Name from the Avro Anson aircraft."],
+  [-36.973776, 174.800166, "Ansty Place", "Off Windrush. Auster aircraft manufactured in this village."],
+  [-36.980407, 174.829694, "Appleby Place", "Off Skipton. Local residents."],
+  [
+    -36.957533,
+    174.816204,
+    "Archboyd Avenue",
+    "Off Garus. Archibald McKechnie Boyd was a community planner with the Ministry of Works and planned state housing in South Auckland."
+  ],
+  [-36.978485, 174.800252, "Ari (?)", "Off Cyclamen."],
+  [
+    -36.971933,
+    174.78339,
+    "Ascot Road",
+    "Off Kirkbride. Major Greenwood's series of farms in Māngere in the 1850s (one of which was Allotment 83, Parish of Manurewa) was named 'Ascot', and Ascot Road goes through that area. In 1937 it was 1380 yards long, had six residences and named around 1887."
+  ],
+  [-36.944545, 174.76788, "Ashcroft Avenue", "Off Bader Drive. Edgar Ashcroft was County Clerk of Manukau County."],
+  [-36.968809, 174.805036, "Ashgrove Road", "Off Bader Drive. English placename."],
+  [-36.967311, 174.814093, "Ashley Avenue", "Off Robertson Road. Name associated with the Canterbury Association."],
+  [-36.959811, 174.799401, "Ashmore Place", "Off Hall Avenue. Ship came to New Zealand."],
+  [-36.951914, 174.805763, "Asics Drive", "Off Dewhurst. Sports shoe brand."],
+  [-36.955017, 174.817648, "Aspenwood Place", "Off Bicknell. English placename."],
+  [-36.958171, 174.808537, "Atiu Place", "Off Enuamanu. Island in Cook Island group."],
+  [-36.964858, 174.78917, "Auster Place", "Off Convair. Aircraft manufacturer."],
+  [-36.97174, 174.788818, "Avro Place", "Off Viscount. Avro Anson was a training plane."],
+  [
+    -36.968827,
+    174.799502,
+    "Bader Drive",
+    "Off McKenzie. Squadron Leader Sir Douglas Bader lost both legs in World War Two."
+  ],
+  [-36.963832, 174.818931, "Balnoon Place", "Off Chalfont. Scottish placename."],
+  [-36.941833, 174.766458, "Banbury Place", "Off Kiwi Esplanade. Family lived locally, or English placename."],
+  [
+    -36.966645,
+    174.809495,
+    "Bari Lane",
+    "Off Robertson. Italian seaport on Adriatic used by New Zealanders in World War Two."
+  ],
+  [
+    -36.948375,
+    174.825735,
+    "Beach Road",
+    "Off James Fletcher. Access to local foreshore. In 1937 it had seven residences."
+  ],
+  [-36.958659, 174.795232, "Bede Place", "Off Elmdon. Male first name."],
+  [-36.962317, 174.818102, "Bedlow Place", "Off Chalfont. Buckinghamshire village."],
+  [-36.965831, 174.811971, "Bellard Place", "Off Lyncroft. Brian Bellard was a member of the Manukau Council staff."],
+  [-36.966636, 174.816222, "Ben Lora Place", "Off Buckland. Placename in Argyle, Scotland."],
+  [
+    -36.969897,
+    174.832395,
+    "Beryl Place",
+    "Off Wedgewood. A daughter of Mr Idonie who subdivided the land in the 1950s."
+  ],
+  [-36.961472, 174.788117, "Betula Place", "Off McKenzie. Scientific name for paper birch."],
+  [-36.955404, 174.8187, "Bicknell Road", "Off Lenore. Stephen Bicknell was a New Zealand photographer(?)"],
+  [
+    -36.955756,
+    174.802303,
+    "Bingara Place",
+    "Off Robertson. Aboriginal name for a creek or river crossing in New South Wales."
+  ],
+  [-36.955224, 174.823898, "Blake Road", "Off Vine. Rod Blake was an architect with B.M.A. Construction."],
+  [-36.964459, 174.820004, "Bodmin Place", "Off Chalfont. Village in north Cornwall."],
+  [
+    -36.955174,
+    174.808198,
+    "Borlase Lane",
+    "Off Langloise. William Early Borlase was a surveyor and friend of Edwin Gibbon Wakefield."
+  ],
+  [
+    -36.94181,
+    174.77684,
+    "Boyd Avenue",
+    "Off Wallace. John James Boyd was a zookeeper and briefly in 1917 Mayor of Onehunga Borough, who also lived in the area. Named before 1942."
+  ],
+  [-36.974946, 174.782575, "Brigade Road", "Off Andrew and Baxter."],
+  [-36.98057, 174.802125, "Brunswick Rise", "Off Cyclamen. A Canadian province."],
+  [
+    -36.965887,
+    174.809318,
+    "Buckland Road",
+    "Off Portage and Robertson. Albert W. Buckland was a local landowner who had his own racetrack. He arrived in Auckland in the 1850s."
+  ],
+  [-36.957255, 174.811618, "Bukem Place", "Off Gadsby. L.T.J. Bukem was a top drummer and bass player."],
+  [-36.955742, 174.806285, "Burbridge Road", "Off Wakefield. Margaret Burbridge worked the Hubble Telescope."],
+  [-36.961594, 174.803095, "Calthorp", "Off Robertson. English placename and that of a vintage motorbike."],
+  [-36.965759, 174.830958, "Calvert Close", "Off Robertson. Early settler in the area, formerly Third Avenue."],
+  [-36.9566, 174.805385, "Cameo Court", "Off Robertson. An onyx carved in relief."],
+  [-36.969965, 174.802142, "Canning Crescent", "Off Mascot. Named after a local developer, or Sir George Canning."],
+  [-36.971815, 174.796479, "Cape Road", "Off Thomas. Subdivided by Mr Thomas. Similar to Cape in Cornwall."],
+  [-36.962986, 174.822292, "Carnac Place", "Off Ferguson. Scottish placename."],
+  [-36.964282, 174.792334, "Caravelle Close", "Off Valiant. French aeroplane."],
+  [-36.953932, 174.807687, "Cardrona Place", "Off Wakefield. Placename from both Scotland and the South Island."],
+  [-36.96999, 174.812598, "Carver Place", "Off Steven. Possibly named after a Lands and Survey staff member."],
+  [-36.959387, 174.790344, "Cessna Place", "Off Bader. Named after the American plane manufacturer Clyde V. Cessna."],
+  [-36.961692, 174.82387, "Chadwick Crescent", "Off Ferguson. Possibly named after a Lands and Survey staff member."],
+  [-36.963832, 174.818931, "Chalfont Street", "Off Yates. Buckinghamshire village."],
+  [
+    -36.960293,
+    174.834604,
+    "Chaplin Street",
+    "Off Rosella. Close to Metro Theatre - film star, or a local name? Named before 1942."
+  ],
+  [-36.980422, 174.795929, "Chayward Place", "Off Naylor. Possibly an American author."],
+  [-36.959918, 174.815872, "Chelburn Crescent", "Off Wickman. Scottish placename."],
+  [-36.973042, 174.830783, "Cheviot Street", "Off Buckland. Hills separating England and Scotland."],
+  [-36.959429, 174.802953, "Chine Place", "Off Calthorp. Narrow valley or ravine."],
+  [-36.972102, 174.811279, "Chingford Close", "Off Ashgrove. Similar English names of Ilford and Wanstead nearby."],
+  [-36.942031, 174.769736, "Chipping Dale", "Off Kiwi. Albertan placename, or golf or “Chip & Dale“?"],
+  [
+    -36.941196,
+    174.786705,
+    "Church Road",
+    "Off Coronation. Named after the historic St James Anglican Church built out of stone. In 1937 the road was 1100 yards long and supposedly named around 1887."
+  ],
+  [-36.977258, 174.81601, "Cinnamon Road", "Off Tidal. Bark of the Laurel tree used for seasoning."],
+  [-36.942489, 174.765277, "Claresholm Place", "Off Kiwi. Albertan placename."],
+  [-36.958855, 174.827171, "Cleek Road", "Off Tennessee. Golfing term or should be Creek?"],
+  [-36.960793, 174.814814, "Clyro Place", "Off Chelburn. Welsh placename."],
+  [
+    -36.974769,
+    174.818043,
+    "Colin Street",
+    "Off Tidal. A son of the Watt family who was an engineer on the Doric Star and was lost at sea."
+  ],
+  [-36.963721, 174.795639, "Comet Crescent", "Off Bader. First jet airliner."],
+  [-36.94633, 174.782773, "Conifer", "Off Scott. Conifers used to grow around the base of Māngere Mountain."],
+  [-36.964858, 174.78917, "Convair Lane", "Off Idlewild. Name of aircraft."],
+  [-36.969297, 174.811252, "Coptic Place", "Off Robertson. Saw Savill Albion ship, a sister to the Gothic."],
+  [-36.974391, 174.798809, "Cornwall Road", "Off Thomas. Subdivided by Mr Thomas who came from Cornwall."],
+  [-36.954713, 174.790766, "Coronation Road", "To McKenzie. Crowing of Royalty."],
+  [-36.964759, 174.790241, "Corsair Crescent", "Off Valiant. American plane."],
+  [-36.959301, 174.8117, "Cottingham Crescent", "Off Garus. English placename."],
+  [-36.968662, 174.801885, "Court Town Close", "Off Bader. Adjacent to Māngere Town Centre."],
+  [-36.97242, 174.823112, "Courtenay Crescent", "Off Winthrop. Possibly named after local resident."],
+  [-36.960801, 174.808226, "Cranmere Crescent", "Off McKinstry. British aerodrome."],
+  [-36.938379, 174.788925, "Crawford Avenue", "Off Eastie / Waterfront. Local farmer. Named before 1942."],
+  [-36.958565, 174.78322, "Creamery Road", "Off Kirkbride. Ambury's creamery was here."],
+  [-36.959315, 174.813049, "Cromer Place", "Off Cottingham. Possibly after the place in Norfolk."],
+  [-36.981389, 174.803915, "Crossandra Drive", "Off Cyclamen. Named after the hedgeplant, with a firecracker flower."],
+  [-36.978632, 174.789455, "Cullinan Avenue", "Off Kohinoor. Name of a famous diamond."],
+  [-36.943939, 174.855873, "Curlew Avenue", "Off Calthorp. The largest English wading bird."],
+  [-36.979787, 174.803035, "Cyclamen Road", "Off Peninsula. Flowering bulb."],
+  [
+    -37.004492,
+    174.790296,
+    "Cyril Kay Road",
+    "Off George Bolt. The Air Marshall who commanded Number 75 Squadron in the Battle of Britain."
+  ],
+  [-36.969608, 174.798878, "Daley(?)", "Off Muir. Scottish placename."],
+  [-36.969578, 174.819994, "Daniel Avenue", "Off James. Son of local residents."],
+  [-36.974094, 174.811716, "Deborah Place", "Off Tranant. First name."],
+  [
+    -36.947649,
+    174.774146,
+    "Derrett Place",
+    "Off Matapouri. The family lived in the Cairnhill farmhouse on Ambury Road."
+  ],
+  [-36.972867, 174.790375, "Desford Place", "Off Staverton. Possibly after the Leicester placename."],
+  [
+    -36.952115,
+    174.805063,
+    "Dewhurst Place",
+    "Off Favona. James Dewhurst was caretaker of the Māngere East Hall for many years."
+  ],
+  [-36.977015, 174.814056, "Dole Place", "Off Orrell. Possibly after the pineapple brand."],
+  [-36.947828, 174.785737, "Domain Road", "Off Coronation. Māngere Mountain Domain access."],
+  [-36.97352, 174.77718, "Doncaster Street", "Off Aintree. English racecourse."],
+  [-36.955599, 174.799065, "Donnell Avenue", "Off Walmsley. Thomas and Matilda Donnell lived in Walmsley Road here."],
+  [-36.962305, 174.835233, "Dreifuss Place", "Off Gray. The dentist Dr Dreifuss lived in Gray Avenue."],
+  [
+    -36.959926,
+    174.829349,
+    "Driver Road",
+    "Off Tennessee. Near the golf course and likely named after George Driver, a roading engineer with Stevensons. Named before 1942."
+  ],
+  [-36.977327, 174.809055, "Duggan Avenue", "Off Massey/Friesian. Possibly named after a surveyor."],
+  [-36.947269, 174.790485, "Dunstall Place", "Off Coronation. English placename."],
+  [-36.951031, 174.845072, "Earlsworth", "Named before 1942, now no longer there as one in Papatoetoe instead."],
+  [
+    -36.967785,
+    174.838149,
+    "Eden Street",
+    "Off Landon. The second Lord Auckland was first Lord of the Admiralty in Governor Hobson's time."
+  ],
+  [-36.970135, 174.787857, "Electra Place", "Off Mariner. A passenger plane."],
+  [-36.960573, 174.793874, "Elmdon Street", "Off Bader/Hall. English placename."],
+  [-36.973563, 174.818785, "Ensor Place", "Off Massey."],
+  [-36.958387, 174.808022, "Enuamanu Road", "Off Gadsby. A Cook island name, island of birds."],
+  [-36.960588, 174.81664, "Ettrick Road", "Off Chelburn. A placename from the Scottish borders."],
+  [
+    -36.95856,
+    174.830905,
+    "Ewart Road",
+    "Off Massey. Ewart was the United States camp commander whose barracks were on the site of the Otahuhu trotting course."
+  ],
+  [-36.968057, 174.790358, "Fairey Place", "Off Viscount. World War Two aircraft manufacturer."],
+  [-36.946864, 174.778826, "Fallsbrook Lane", "Off Taylor. Named after the hospital run by Bill Kirk's grandmother."],
+  [-36.978882, 174.79683, "Fareti Place", "Off Manston. Samoan for Freddy."],
+  [
+    -36.957863,
+    174.823484,
+    "Farmer Street",
+    "Off Tennessee. James Farmer owned Puketutu Island and was a member of the Auckland Provincial Council."
+  ],
+  [
+    -36.977011,
+    174.799153,
+    "Farnborough Lane",
+    "Off Plumley. There is an annual aircraft display at this English airfield."
+  ],
+  [
+    -36.948786,
+    174.809728,
+    "Favona Road",
+    "Off Robertson/James Fletcher. The name given to Robertson's cattle, means westerly wind. Named before 1942."
+  ],
+  [-36.944831, 174.767208, "Feltwell Place", "Off Ashcroft. Base of 15th RNZAF Squadron in England."],
+  [
+    -36.96417,
+    174.828074,
+    "Ferguson Street",
+    "Off Massey. Christina Massey's husband was William Ferguson Massey. In 1937 it had nine residences."
+  ],
+  [-36.969608, 174.798878, "Fifth Avenue", "In 1937 it had one residence. Now?"],
+  [-36.965307, 174.827329, "First Avenue", "Now Hain. In 1937 it had six residences."],
+  [-36.979928, 174.799837, "Fitchburg Place", "Off Peninsula. Surname."],
+  [
+    -36.958343,
+    174.821735,
+    "Fleming Street",
+    "Off Tennessee. Possibly the name of a State Advances Corporation staff member."
+  ],
+  [-36.949438, 174.811361, "Forbes Road", "Off Favona. Subdivider."],
+  [-36.974546, 174.806207, "Forbury Place", "Off Mascot. A village in Berkshire and a trotting track in New Zealand."],
+  [-36.960076, 174.811993, "Foster Place", "Off Cottingham. Possibly named after a Lands and Survey staff member."],
+  [-36.969608, 174.798878, "Fourth Avenue", "Noted in 1937. Now?"],
+  [-37.005542, 174.789225, "Fred Ladd Way", "Off Cyril Kay. Sea plane and amphibian aviator."],
+  [-36.956268, 174.811868, "Freda Place", "Off Lenore. Girl's first name."],
+  [-36.976208, 174.812322, "Friesian Drive", "Off Massey / Mascot. The breed of cattle on Mr Thompson's dairy farm."],
+  [-36.953903, 174.808999, "Gadsby Road", "Off Robertson. Named after New Zealand comedian Jon Gadsby."],
+  [-36.964646, 174.831802, "Ganges Avenue", "Off Calert. Name of an early 1860s immigrant ship."],
+  [-36.969235, 174.815449, "Gardiner Grove", "Off Von Sturmer. Market gardeners - spelling?"],
+  [
+    -36.962978,
+    174.814538,
+    "Garus Avenue",
+    "Off Wickman. Pauline Garus was the secretary to the first and second Mayors of Manukau City."
+  ],
+  [
+    -36.979186,
+    174.824368,
+    "Gee Place",
+    "Off Tidal. Joe Gee had a training track at the corner of Massey and Buckland Roads."
+  ],
+  [-36.973689, 174.819538, "Geoffrey Place", "Off Henwood. Baby son of Idoine family."],
+  [-37.00048, 174.794183, "Geoffrey Roberts Road", "Off A. McKee. Chairman of the National Airways Corporation (NAC)."],
+  [-36.971193, 174.819651, "George Street", "Off Massey. Name of a Massey son. In 1937 it had two residences."],
+  [
+    -36.966355,
+    174.796531,
+    "George Bolt Memorial Drive",
+    "Off Kirkbride. An early flying instructor who flew Auckland to Wellington."
+  ],
+  [-36.98133, 174.802425, "Ginko Place", "Off Crossandra. Exotic tree."],
+  [-36.958903, 174.808513, "Glenpark Place", "Off Gadsby. English placename."],
+  [-36.969608, 174.798878, "Goodwin(?)", "Off Robertson. The developer was Peter Goodwin."],
+  [
+    -36.968404,
+    174.834534,
+    "Graeme Avenue",
+    "Off Buckland. Son of Mrs Fenton, landowner, who was a Spitfire pilot killed in World War Two."
+  ],
+  [-36.955718, 174.815033, "Grangewood Close", "Off Gadsby. English placename."],
+  [
+    -36.962525,
+    174.8333,
+    "Gray Avenue",
+    "Off Massey/Portage. Isaac Gray and family farmed land in the Portage Road area and this gave access to their home."
+  ],
+  [
+    -36.96935,
+    174.781609,
+    "Greenwood Road",
+    "Off Ascot. Major Joseph Greenwood owned the Ascot estate. In 1937 it was 3/4 of a mile plus 80 yards long, with 13 residences and likely named around 1887."
+  ],
+  [-36.965956, 174.823031, "Growers Lane", "Off Yates. Seed merchants for local farmers."],
+  [-36.975091, 174.8255, "Haddon Street", "Off Henwood. Possibly named after a Māori Methodist minister."],
+  [-36.965307, 174.827329, "Hain Avenue", "Off Massey. D.C.S. Hain was a local landowner - formerly First Avenue."],
+  [
+    -36.946344,
+    174.840226,
+    "Hall Avenue",
+    "Off Favona/Robertson. William Hall was the local landowner.   In 1937 it had 17 residences."
+  ],
+  [-36.970612, 174.831007, "Hallberry Road", "Off Graeme. The landowner was Mrs Halberry and was farmed from 1891."],
+  [-36.96766, 174.812511, "Halswell Street", "Off Ashley. E.S. Halswell came in 1841 with the NZ Company settlement."],
+  [-37.00227, 174.802014, "Hape Drive", "Off Tom Pearce. Maori legendary figure, arrived on back of a stingray."],
+  [-36.951128, 174.809264, "Harania Avenue", "Off Favona. Making a mistake."],
+  [
+    -36.970867,
+    174.818244,
+    "Hardie Street",
+    "Off Robertson. Valentine S. Hardie was an engineer, and lived at the corner at Culverden's old villa."
+  ],
+  [-36.955875, 174.799801, "Harriet Street", "Off Donnell. Wife of Mr Masters."],
+  [-36.961172, 174.79446, "Harvard Place", "Off Elmdon. North American trainer plane."],
+  [-36.969424, 174.794197, "Harwell Place", "Off Killington. Airfield in England."],
+  [
+    -36.944818,
+    174.796252,
+    "Hastie Avenue",
+    "Off Coronation. Joseph Hastie famed in the area and was a member of the Highway Board and then the first Onehunga Borough Council. It was named before 1942."
+  ],
+  [-36.973393, 174.820253, "Henwood Road", "Off Massey. The family lived on the corner with Massey Road."],
+  [-36.97468, 174.803857, "Heyford Close", "Off Mascot. Airfield in England."],
+  [-36.948993, 174.812875, "Hilda Road", "Off Forbes. Mrs Hilda Forbes."],
+  [-36.956469, 174.79084, "Hinau Road", "Off McKenzie. Native tree."],
+  [
+    -36.94869,
+    174.789983,
+    "Hocken Place",
+    "Off Coronation. Thomas Morland Hocken was a collector of early New Zealand history."
+  ],
+  [-36.973881, 174.833905, "Hokianga Street", "Off Raglan. Northern harbour."],
+  [
+    -36.942572,
+    174.773888,
+    "House Avenue",
+    "Off Muir. S.W. House served on several local bodies and gave land for the park at Māngere Central and Māngere East House Park Trust. It was named before 1942."
+  ],
+  [-36.972342, 174.809418, "Humphreys Place", "Off Ashgrove. Landowner."],
+  [-36.966325, 174.789522, "Idlewild Avenue", "Off Kirkbride/Bader. The former name of JFK airport in New York."],
+  [
+    -36.99387,
+    174.770743,
+    "Ihumatao Road",
+    "Off George Bolt. Cold nose or just nose of Mataoho, the Māori god of volcanoes and earthquakes. In 1937 it was 1 mile and 220 yards long, with 14 residences and named around 1887."
+  ],
+  [-36.969154, 174.807015, "Ilford Crescent", "Off Ashgrove. London suburb near Chingford and Purley."],
+  [-36.97336, 174.812965, "Imrie Avenue", "Off Massey/Friesian. Maiden name of Mrs Neville Thompson - landowners."],
+  [-36.966464, 174.77757, "Island Road", "Off Greenwood. Access road to Puketutu Island."],
+  [-36.971623, 174.815921, "Jacqueline Place", "Off Robertson. Possibly Jacqueline Carver."],
+  [
+    -36.968975,
+    174.818771,
+    "James Street",
+    "Off Massey. The land belonged to James G. Hardie before being developed by G. Dreardon. It isn't named after George E. James who served on the Onehunga Borough Council 1884 - 1886."
+  ],
+  [-36.94945, 174.819474, "James Fletcher Drive", "Off Favona. Founder of the steel mill, once called Favona."],
+  [-36.981065, 174.793866, "Jaylo Place", "Off Naylor. Named after Jennifer Lopez - singer."],
+  [-36.971724, 174.82234, "John Street", "Off Massey/Allen. A son of William Ferguson Massey."],
+  [
+    -36.998277,
+    174.787986,
+    "John Goulter Drive",
+    "Off George Bolt. First Chief Executive Officer and later Managing Director of Auckland Airport."
+  ],
+  [
+    -36.973887,
+    174.793445,
+    "Jordan Road",
+    "Off Kirkbride/Thomas. Sir William Jordan was Labour MP for Manukau/Onehunga and later High Commissioner to London."
+  ],
+  [-36.950685, 174.81007, "Jury Place", "Off Harania. Possibly named after a Lands and Survey staff member."],
+  [-36.948486, 174.830831, "Kahu Street", "Off James Fletcher. Cloak."],
+  [-36.97248, 174.82915, "Kairanga Road", "Off Raglan. Sandbank or pulled up by the roots."],
+  [-36.948988, 174.834674, "Kaka Street", "Off Tui/Titi. Native bird."],
+  [-36.950899, 174.789666, "Kamaka Road", "Off Mountain. Stone or rock."],
+  [-36.956161, 174.788752, "Kambalda Street", "Off Tarata. Aboriginal placename."],
+  [-36.949524, 174.779331, "Kanohi Terrace", "Off Ridgemount. Eye or face/view."],
+  [-36.953645, 174.783476, "Kapuka Road", "Off Wallace. Native broadleaf tree."],
+  [-36.948967, 174.774569, "Kea Place", "Off Wallace. Small parrot."],
+  [
+    -36.969092,
+    174.807109,
+    "Kelburn Lane",
+    "Off Ilford. Son of the Earl of Glasgow, Governor of New Zealand 1892 - 1897."
+  ],
+  [-36.977013, 174.806075, "Kemble Close", "Off Mascot. Name of airfield in Cirencester."],
+  [-36.969254, 174.805971, "Kenton Lane", "Off Ilford. Devonshire placename."],
+  [-36.951455, 174.771724, "Kiekie Road", "Off Wellesley. Parasitic giant."],
+  [-36.968873, 174.793428, "Killington Crescent", "Off Orly/Staverton. English placename."],
+  [-36.952068, 174.796002, "Kingfisher Place", "Off Waterview. Native bird."],
+  [
+    -36.979511,
+    174.781682,
+    "Kingsford-Smith Place",
+    "Off Richard Pearse. Sir Charles Kingsford-Smith undertook the first crossing of the Tasman by air."
+  ],
+  [-36.957947, 174.814689, "Kirkella Crescent", "Off Garus. Ella Kirk was the mother of Bill Kirk."],
+  [
+    -36.973267,
+    174.78862,
+    "Kirkbride Road",
+    "Off Mountain/Massey. Matthew Middlewood Kirkbride (1848 - 1906) was chairman of the Māngere Roads Board 1902 - 1906. It was named before 1942."
+  ],
+  [-36.965078, 174.808791, "Kivell Close", "Off Robertson. Housing Corporation employee."],
+  [
+    -36.939681,
+    174.777911,
+    "Kiwi Esplanade",
+    "Off Coronation and by Māngere Bridge. This was the nickname of Mrs Kewene, and the name of a native bird. In 1937 it was 770 yards long, with 15 residences and named around 1927. It was developed during the 1930's depression."
+  ],
+  [-36.944316, 174.789232, "Kohanga Road", "Off Miro. Nest."],
+  [-36.977873, 174.789943, "Kohinoor Avenue", "Off Westney. Precious jewel in the Royal Crown."],
+  [-36.95862, 174.787434, "Korimako Avenue", "Off Tarata. Bell bird."],
+  [-36.951658, 174.78812, "Koru Street", "Off Kamaka. Unfurling fern frond used in Maori carvings."],
+  [-36.943662, 174.777251, "Kowhai Avenue", "Off Wallace. Flowering native tree."],
+  [-36.95178, 174.810066, "Lachlan Place", "Off Harania. A Navy survey frigate."],
+  [-36.969515, 174.838127, "Landon Avenue", "Off Gray / Graeme. Local landowners."],
+  [-36.955627, 174.808554, "Langiola Drive", "Off Wakefield. Placename in Samoa."],
+  [
+    -37.004026,
+    174.791446,
+    "Laurence Stevens Drive",
+    "Off George Bolt. Sir Laurence Stevens was the first director of the Airport Company."
+  ],
+  [-36.97164, 174.824487, "Lavinia Crescent", "Off Allen. Girl's name."],
+  [-36.973048, 174.79224, "Lawford Place", "Off Staverton. Possibly after Peter Lawford the actor."],
+  [
+    -36.97449,
+    174.808576,
+    "Leeson Place",
+    "Off Duggan. Possibly after Nicholas Leeson who bankrupted the Baring Bank in Singapore."
+  ],
+  [-36.954082, 174.812391, "Lenore Road", "Off Gadsby. Named by Manukau City but supposed to be Lenora."],
+  [
+    -36.999796,
+    174.789823,
+    "Leonard Isitt Drive",
+    "Off John Goulter. Air Vice Marshall and first to carry a pilot's licence."
+  ],
+  [-36.946249, 174.773527, "Lindis Place", "Off Muir. Scottish and South Island placename."],
+  [-36.970367, 174.817711, "Linnet Place", "Off Von Sturmer. Scottish song bird/thrush."],
+  [-36.945596, 174.815339, "Lolim Place", "Off Norana. Possible after the African witchdoctor."],
+  [-36.965057, 174.836425, "Lotus Lane", "Off Earlsworth. Water plant."],
+  [-36.977289, 174.797547, "Lympne Lane", "Off Farnborough. Kent airfield used by New Zealanders in World War Two."],
+  [-36.965012, 174.810784, "Lyncroft(?)", "Off Buckland/Ashley. Name of British hotel."],
+  [-36.96676, 174.78656, "Lynette Place", "Off Idlewood. Girl's name."],
+  [-36.960245, 174.809723, "Lytham Lane", "Off Cranmere. Name of aviation company and English placename."],
+  [-36.956816, 174.823743, "Macky Avenue", "Off Blake. Manukau County engineer."],
+  [-36.963801, 174.831106, "McBurney Place", "Off Calvert. Local farmer."],
+  [
+    -36.942967,
+    174.787384,
+    "McIntyre Road",
+    "Off Coronation/Wallace and by Māngere Bridge. Captain James McIntyre was an ironmonger and a member of the local Road Board and Onehunga Borough Council. Named before 1942."
+  ],
+  [
+    -36.965583,
+    174.785568,
+    "McKenzie Road",
+    "Off Walmsley/Kirkbride. Hugh Mckenzie owned the Acott farm and chaired the Auckland Harbour Board in the 1920's. Named before 1942."
+  ],
+  [
+    -36.961337,
+    174.810204,
+    "McKinstry Avenue",
+    "Off Robertson/Garus. Ben McKinstry was chairman of Māngere East County Town."
+  ],
+  [
+    -36.963623,
+    174.811557,
+    "McNaughton Avenue",
+    "Off McKinstry/Garus. Gordon McNaughton was a member of the Māngere East County Town board."
+  ],
+  [-36.940143, 174.791403, "Mahunga Drive", "Off Walmsley/Rimu. Head or lock of hair."],
+  [-36.950569, 174.808395, "Maitland Place", "Off Quennell. Local family name."],
+  [-36.968332, 174.830473, "Malcolm Place", "Off Wedgewood. Son of Mr Idonie, the subdivider and builder."],
+  [-36.951977, 174.838194, "Māngere Road", "There in 1937."],
+  [-36.979058, 174.796633, "Manston Road", "Off Plumley. Name of an airfield close to London."],
+  [-36.948086, 174.830472, "Manu Street", "Off Kahu. Maori for bird."],
+  [-36.969397, 174.787248, "Mariner Street", "Off Viscount/Wimpey. Name of a flying boat."],
+  [-36.950419, 174.81253, "Mary Place", "Off Forbes. Member of the Forbes family."],
+  [-36.969209, 174.801815, "Mascot Avenue", "Off Bader. Name for Kingsford-Smith airport in Sydney."],
+  [
+    -36.977716,
+    174.804065,
+    "Massey Road",
+    "Off Kirkbride/Māngere. Named after William Ferguson Massey (1850 - 1925), farmer, M.P. and Prime Minister 1912 - 1925. In 1937 it was 1 / 2 mile long, with 12 residences and named around 1887 (?)."
+  ],
+  [-36.955836, 174.797229, "Masters Place", "Off Donnell. Mr Masters lived behind Donnells the contractor."],
+  [-36.948341, 174.773862, "Matapouri Road", "Off Wallace. Shellfish."],
+  [-36.946553, 174.780713, "Matchett Way", "Off Taylor. The landowning family lived on Taylor Road."],
+  [
+    -36.958802,
+    174.834279,
+    "May Road",
+    "Off Rosella. May Brady was the wife of the subdivider and there is already a Brady Road in Otahuhu. In 1937 there were three residences."
+  ],
+  [-36.97353, 174.824649, "Mayflower Close", "Off Raglan. Name of the Pilgrim's ship to North America."],
+  [-36.946193, 174.778274, "Maynard Place", "Off Taylor. Local family."],
+  [-36.969326, 174.817483, "Mervan Street", "Off Ashley. Local family."],
+  [-36.959388, 174.833924, "Miami Street", "Off Massey. In 1937 there were two residences."],
+  [-36.977917, 174.787739, "Michelle Place", "Off Cullinan. Girl's first name."],
+  [-36.966275, 174.802974, "Mikasa Place", "Off Courtown. Tableware and 1904 Japanese flag ship."],
+  [
+    -36.955354,
+    174.785139,
+    "Miller Road",
+    "Off Wallace / McKenzie. Local family. In 1937 it was 490 yards long, with four residences and named around 1925."
+  ],
+  [-36.942931, 174.787554, "Miro Road", "Off Coronation. Native tree which matures in 400 years."],
+  [-36.968325, 174.818543, "Moffitt Place", "Off James. Early landowners William and Eban Moffitt."],
+  [-36.956899, 174.792754, "Molesworth Place", "Off Hall. Sir William Molesworth from the New Zealand Company."],
+  [
+    -36.971884,
+    174.801309,
+    "Moana(?)",
+    "In 1937 it was eight chains long, with five residences and named around 1931. No longer there."
+  ],
+  [-36.943077, 174.797194, "Mona(?)", "Off Eastie. Mona and Alf Powdrell had glasshouses here."],
+  [-36.982916, 174.78628, "Montgomerie Road", "Off Ascot/George Bolt. Early farming family. Named before 1942."],
+  [-36.954458, 174.801116, "Morewood Lane", "Off Tilburg. English placename."],
+  [
+    -36.955414,
+    174.785062,
+    "Mountain Road",
+    "Off Coronation/Wallace. At base of Māngere Mountain. In 1937 it was 3/4 mile long, with 11 residences and named around 1887."
+  ],
+  [
+    -36.944351,
+    174.772503,
+    "Muir Avenue",
+    "Off Wallace. Early family. In 1937 it was 1/2 mile long, with five residences and named around 1929."
+  ],
+  [-36.941899, 174.772213, "Nadine Place", "Off Seaforth. Girl's first name."],
+  [-36.976518, 174.795427, "Naylors Drive", "Off Kirkbride. Murray Naylor was the developer."],
+  [-36.973373, 174.805036, "Nevis Place", "Off Friesian. In an area of other Scottish names."],
+  [-36.940474, 174.779124, "Ngaio Avenue", "Off Shortt. Native tree with thick bark."],
+  [-36.976221, 174.810331, "Nicola Place", "Off Friesian. Girl's first name."],
+  [
+    -36.949723,
+    174.845505,
+    "Nixon Avenue",
+    "Off George Bolt. Colonel Marmaduke Nixon commanded the defence forces and lived at Homewood farm. In 1937 it was 1/2 mile long, with two residences and named around 1887."
+  ],
+  [-36.945582, 174.813464, "Norana Avenue", "Off Favona. In 1937 it had nine residences."],
+  [-36.971511, 174.79271, "Norton Place", "Off Staverton. Possibly named after a Lands and Survey staff member."],
+  [-36.97751, 174.801049, "Norwalk Crescent", "Off Peninsula. Possibly north walk."],
+  [
+    -37.003204,
+    174.789465,
+    "Ogilvie Crescent",
+    "Off George Bolt. Bertram Ogilvie was a New Zealand aviation pioneer who developed aerilon control from 1907 to Richard Pearse. He died in Hastings 3 May 1944."
+  ],
+  [-36.953746, 174.811148, "Opawa Crescent", "New Zealand placename."],
+  [-36.963657, 174.839239, "Orakau Road", "Off Gray. Battle in the land wars. In 1937 it had one residence."],
+  [-36.969212, 174.797848, "Orly Avenue", "Off Bader/Thomas. Paris airport."],
+  [-36.978451, 174.814521, "Orrell Place", "Off Massey. David Orrell was the developer."],
+  [
+    -36.979445,
+    174.762872,
+    "Oruarangi Road",
+    "Off Ihumatao/Ascot. Place of Ruarangi or the fairy people.   It was named before 1942."
+  ],
+  [-36.966228, 174.793184, "Orville Place", "Off Idlewood. Named after Orville Wright, early American aviator."],
+  [-36.955354, 174.81486, "Otago Place", "Off Lenore. Named after the naval ship or the part of the South Island."],
+  [-36.978784, 174.798288, "Outrigger Place", "Off Manston. Canoe sport popular on the Manukau Harbour."],
+  [-36.971809, 174.806349, "Paine Place", "Off Friesian. Farmer who lived there 35 years."],
+  [-36.95325, 174.81696, "Parkstone Place", "Off Gadsby. English placename."],
+  [-36.954107, 174.81497, "Peachwood Place", "Off Lenore. English placename."],
+  [-36.962005, 174.81262, "Penderford Place", "Off McNaughton. Possibly named after the cello and bass maker."],
+  [-36.981415, 174.80085, "Peninsula Road", "Off Massey/Cyclamen. Land shape."],
+  [-36.975765, 174.802079, "Pershore Place", "Off Massey. English placename for Worcestershire and Hertfordshire."],
+  [-36.961789, 174.807977, "Pike Place", "Off McKinstry. Possibly named after a Housing Corporation staff member."],
+  [-36.95165, 174.779699, "Pikitea Road", "Off Wallace. White feather, or upwards or aim high."],
+  [-36.957735, 174.79159, "Pito Place", "Off Ventura. Should be pitot tube for the airspeed on an aeroplane."],
+  [-36.97796, 174.797426, "Plumley Crescent", "Off Massey. Landowner and subdivider."],
+  [-36.936191, 174.835506, "Portage Road", "Off Tidal / Buckland. Māori canoe or waka portage."],
+  [
+    -36.978014,
+    174.812235,
+    "Prangley Avenue",
+    "Off Massey.  Albert Prangley was a timber feller and his son a farmer in the area."
+  ],
+  [-36.9649, 174.793073, "Proctor Place", "Off Idlewood. Percival Proctor brand trainer aeroplane."],
+  [
+    -36.985202,
+    174.805887,
+    "Pukaki Road",
+    "Off Massey. Lagoon cut of from the sea, and originally surrounded by kauri trees. It was named before 1942."
+  ],
+  [-36.964246, 174.744615, "Puketutu Island", "Hill of tutu - native shrubs."],
+  [-36.94843, 174.772926, "Purata Place", "Off Matpouri. Clear or very calm, as waters of Manukau."],
+  [-36.970143, 174.806425, "Purley Place", "Off Ashgrove. English suburb of Croydon."],
+  [
+    -36.952725,
+    174.784305,
+    "Putini Road",
+    "Off Mountain. Pu - tribe, tini - very many.  Name of Māori Methodist missioner."
+  ],
+  [-36.985083, 174.756786, "Quarry Road", "Off Oruarangi. Quarry access road. It was named before 1942."],
+  [-36.950906, 174.80781, "Quennell Avenue", "Off Harania. French for oak tree."],
+  [-36.974387, 174.828841, "Raglan Street", "Off Buckland. Lord Raglan was the British commander in the Crimean War."],
+  [-36.969608, 174.798878, "Rawhiti(?)", "It was named before 1942 and is no longer there."],
+  [-37.004489, 174.782772, "Ray Emery Drive", "Off Tom Pearce. RNZAF Squadron Leader and Māngere Airport manager."],
+  [-36.979873, 174.799003, "Reef Place", "Off Cyclamen. Ride of rocks or an obstruction."],
+  [-36.956435, 174.809084, "Regalwood Place", "Off Gadsby. English placename."],
+  [-36.980192, 174.779289, "Rennie Drive", "Off Montgomerie. John and Trevor Rennie were landowners."],
+  [-36.998831, 174.752439, "Renton Road", "Off Ihumatao. Combination of Rennie and Morton surnames."],
+  [-36.981428, 174.815824, "Retreat Drive", "Off Cinnamon. Peaceful solitude"],
+  [-36.978014, 174.812235, "Richard Road", "Off Prangley. From the Prangley family."],
+  [-36.976298, 174.784302, "Richard Pearse Drive", "Off Ascot. Pioneer New Zealand aviator."],
+  [
+    -36.949157,
+    174.778211,
+    "Ridgemount Rise",
+    "Off Wallace. The hardware code of Mrs Garrett's parent. Garrett was a landowner and Manukau County deputy engineer."
+  ],
+  [-36.940431, 174.790372, "Rimu Road", "Off Coronation. Drooping spiky leafed native tree."],
+  [
+    -36.966062,
+    174.808071,
+    "Robertson Road",
+    "Off Favona/Massey. David Robertson arrived in 1843 to farm and his two sons and a cousin later farmed there also. The cousin Westney started the Auckland Agricultural and Pastoral Show. In 1937 it had one business and 30 residences."
+  ],
+  [-36.970935, 174.833465, "Robyn Place", "Off Hallberry. A younger daughter of the subdividing Idoine family."],
+  [-36.976365, 174.815528, "Rock Daisy Crescent", "Off Tussock. A small flowering plant."],
+  [-36.958018, 174.834377, "Rod Place", "Off Rosella. A boy's first name."],
+  [-36.964017, 174.808717, "Roell Place", "Off Kivell. Employee of Housing Corporation."],
+  [-36.960723, 174.836238, "Rosella Road", "Off Massey/Gray. Mr Thompson's farm. Named before 1942."],
+  [
+    -36.965476,
+    174.820395,
+    "Royton Avenue",
+    "Off Buckland. Royton Montieth was a local landowner.   Named before 1942."
+  ],
+  [-36.983531, 174.765559, "Ruaiti Road", "Off Oruarangi. Small hole as in a food pit."],
+  [-36.971969, 174.807615, "Rush Place", "Off Ashgrove. Jack Rush was a senior staff member at B.M.A. Construction."],
+  [-36.969608, 174.798878, "Ryehill Close", "Off Bader. Medieval Cinque Port in East Sussex."],
+  [-36.947851, 174.796158, "Rymer Place", "Off Mahunga. Dean of Auckland in 1970."],
+  [-36.9576, 174.833474, "Savill Drive", "Off Massey. Shipping company Shaw Savill Albion."],
+  [-36.978338, 174.802017, "Saybrook Place", "Off Peninsula. Placename in Connecticut."],
+  [
+    -36.94203,
+    174.781556,
+    "Scott Avenue",
+    "Off Taylor/Church. Landowners and flower growers. In 1937 it was 770 yards long, with 3 residences and named around 1925."
+  ],
+  [
+    -36.941617,
+    174.771451,
+    "Seaforth Avenue",
+    "Off Kiwi/Muir. Once beach road ran to the harbourside.   Named before 1942."
+  ],
+  [-36.942116, 174.764272, "Sealand Place", "Off Kiwi. View from here."],
+  [
+    -36.978929,
+    174.804322,
+    "Secoia Crescent",
+    "Off Cyclamen. Service and ecology for automotive industry - the Peugeot subsidiary."
+  ],
+  [-36.980046, 174.795039, "Shah Place", "Off Naylor. Indian purchaser in this area."],
+  [
+    -36.940765,
+    174.779949,
+    "Shortt Avenue",
+    "Off Kiwi / Church. The early settler family provided the house for the first Māngere East school. In 1937 it was 440 yards long, with four residences and named around 1925."
+  ],
+  [-36.981377, 174.796615, "Sid Place", "Off Naylor. The name of the developer's dog."],
+  [-36.976217, 174.823629, "Skipton Street", "Off Henwood/Portage. Yorkshire placename."],
+  [-36.967214, 174.789255, "Solent Street", "Off Wimpey/Viscount. Passenger flying boat."],
+  [-36.969016, 174.786783, "Sperry Place", "Off Mariner. Manufacturer of aircraft parts."],
+  [-36.967042, 174.839717, "Staines Avenue", "Off Eden. Local family name."],
+  [-36.970905, 174.792235, "Staverton Crescent", "Off Orly. English placename."],
+  [-36.950314, 174.778615, "Steen Place", "Off Ridgemount. Surname."],
+  [-36.97036, 174.813551, "Steven Street", "Off Robertson/Jacqueline. Boy's first name."],
+  [-36.943377, 174.775828, "Sullivan Avenue", "Off Boyd/Muir. Local family."],
+  [-36.95554, 174.823003, "Sutton Avenue", "Off Blake. Robert Sutton was an early landowner."],
+  [
+    -36.941988,
+    174.786872,
+    "Swanson Road",
+    "Off McIntyre. Landowner and developer in the Māngere bridge area. In 1937 it was 220 yards long, with two residences and named around 1925."
+  ],
+  [-36.965825, 174.79448, "Tacon Place", "Off Idlewood. Wing commander in World War Two."],
+  [-36.942387, 174.779858, "Tainui Terrace", "Off Church. Māori waka."],
+  [-36.958439, 174.816025, "Tamar Place", "Off Kirkella. Devonshire river and passenger ship around 1858."],
+  [-36.950763, 174.791584, "Tanners Road", "Off Coronation. Local family. Named before 1942."],
+  [-36.960348, 174.819682, "Tannock Place", "Off Wickman. Scottish placename."],
+  [-36.957391, 174.786872, "Tarata Crescent", "Off McKenzie. Lemonwood tree, and a creek with this name flows nearby."],
+  [
+    -36.945679,
+    174.782588,
+    "Taylor Road",
+    "Off Coronation/Wallace. Cornelius Taylor lived opposite his cousin John Edward Taylor at Waterlea farm. In 1937 it was 1100 yards long, with 17 residences and named around 1922."
+  ],
+  [-36.959636, 174.822239, "Tennessee Avenue", "Off Massey/Blake. American state. Named before 1942."],
+  [-36.967937, 174.805638, "Teo Lane", "Off Bader. Samoan male name."],
+  [-36.969608, 174.798878, "Third Avenue", "Later Calvert."],
+  [
+    -36.975419,
+    174.797502,
+    "Thomas Road",
+    "Off Massey/Orly. Local farmers. In 1937 it was 280 yards long, with four residences and named around 1922."
+  ],
+  [-36.961099, 174.83639, "Thompson Street", "Off Rosella. Thompson farmed at Rosella farm. Named before 1942."],
+  [-36.972377, 174.82651, "Tiari Place", "Off Raglan. Scent. There in 1937."],
+  [
+    -36.978308,
+    174.821626,
+    "Tidal Road",
+    "Off Massey/Portage. Adjacent to the tidal Waokauri Inlet.   Named before 1942."
+  ],
+  [-36.954458, 174.801116, "Tilberg Street", "Off Robertson. Docks in London."],
+  [-36.952317, 174.808221, "Tinkler Place", "Off Harania. Local family."],
+  [-36.968085, 174.805077, "Tioro Lane", "Off Bader. Stitchbird."],
+  [-36.948327, 174.832716, "Titi Street", "Off Kahu/Kiwi. Little."],
+  [-36.944779, 174.776316, "Titoki Avenue", "Off Wallace. Native tree."],
+  [-36.95463, 174.784084, "Toatoa Place", "Off Kapuka. Native tree."],
+  [
+    -37.001275,
+    174.790804,
+    "Tom Pearce Drive",
+    "Off George Bolt. Colourful local body politician, and chairman of the Auckland Regional Council at the time the airport was opened in 1965."
+  ],
+  [-36.953198, 174.813656, "Tomes Lane", "Collection of books."],
+  [-36.978904, 174.830689, "Tomlin Place", "Off Crammond. Surname."],
+  [-36.974218, 174.812806, "Tranent Road", "Off Imrie. Scottish placename."],
+  [-36.958654, 174.822948, "Trembath Avenue", "Off Farmer. Senior staff member at B.M.A. Construction."],
+  [-36.958547, 174.806059, "Tua Place", "Off Gadsby. David Tua, international boxer, lived in the area."],
+  [-36.949534, 174.830814, "Tui Road", "Off Favona/Titi. Native song bird."],
+  [-36.976162, 174.814407, "Tussock Avenue", "Off Cinnamon. Native grass."],
+  [-36.956696, 174.795978, "Umu Place", "Off Hall. Polynesian cooking method."],
+  [-36.969876, 174.793283, "Upwood Place", "Off Killington. Surname."],
+  [-36.968882, 174.789207, "Valetta Place", "Off Wimpey. Capital of Malta."],
+  [-36.963077, 174.790587, "Valiant Street", "Off Mckenzie/Idlewood. Vickers Valiant bombers."],
+  [-36.95851, 174.792454, "Ventura Street", "Off Bader/Elmdon. American twin engined bomber."],
+  [-36.963327, 174.789376, "Vickers Crescent", "Off Valiant. British armament makers including the Wellington bomber."],
+  [-36.973015, 174.795927, "View Road", "Off Thomas. Mr Thomas the subdivider liked the view from here."],
+  [-36.969587, 174.791014, "Vimy Place", "Off Viscount. Early bomber made between World War One and Two."],
+  [-36.958019, 174.82422, "Vine Street", "Off Massey. Winery at the top of the street, and vines."],
+  [-36.964518, 174.828318, "Viola Avenue", "Off Massey/Calvert. Early immigrant ship. In 1937 it had 13 residences."],
+  [-36.969361, 174.790082, "Viscount Street", "Off Kirkbride. Passenger aircraft built by Vickers."],
+  [-36.969966, 174.816949, "Von Sturmer Street", "Off Robertson. Local family."],
+  [-36.950468, 174.773022, "Waiana Avenue", "Off Wellesley. Water in a cave and Massey piggery."],
+  [-36.984533, 174.766315, "Waipouri Road", "Off Oruarangi. Sorrowing waters and local Māori name."],
+  [-36.969608, 174.798878, "Wairoa(?)", "Named before 1942."],
+  [-36.953884, 174.8086, "Wakefield Road", "Off Robertson. Local landowner."],
+  [-36.957932, 174.820666, "Wakelin Road", "Off Vine. George Wakelin was a foreman with B.M.A. Construction."],
+  [-36.977517, 174.832035, "Walden Place", "Off Woburn."],
+  [-36.980992, 174.797346, "Waldos Way", "Off Naylor."],
+  [
+    -36.952309,
+    174.77819,
+    "Wallace Road",
+    "Off Church/Kirkbride. Several brothers farmed this land. In 1937 it was 1 mile and 110 yards long, with 13 residences and named around 1887."
+  ],
+  [
+    -36.949527,
+    174.835757,
+    "Walmsley Road",
+    "Off Coronation/Robertson. Early landowner, Captain Walmsley served under Colonel Nixon."
+  ],
+  [
+    -37.00559,
+    174.795423,
+    "Walsh Brothers Place",
+    "Off Geoffrey Roberts. The Walsh brothers built the first New Zealand flying school."
+  ],
+  [
+    -36.970894,
+    174.823368,
+    "Walter Street",
+    "Off Massey/Allen. A son of William Ferguson Massey.   In 1937 it had seven residences."
+  ],
+  [-36.970382, 174.80272, "Wanstead Way", "Off Canning. Town in Essex."],
+  [-36.979966, 174.821101, "Waokauri Place", "Off Tidal. Forest of kauri."],
+  [-36.945431, 174.765622, "Warden Place", "Off Ambury. Wardens were used to supervise workers at Ambury Park"],
+  [-36.960529, 174.796222, "Watchfield Close", "Off Elmdon. Near Swindon."],
+  [-36.969608, 174.798878, "Watea(?)", "Named before 1942 and now gone."],
+  [-36.981484, 174.800033, "Waterbury Place", "Off Peninsula."],
+  [-36.939046, 174.786996, "Waterfront Road", "Off Coronation. Foreshore view."],
+  [-36.944402, 174.770067, "Waterlea Avenue", "Off Ambury. Name of J.E. Taylor's farm. Named before 1942."],
+  [
+    -36.953186,
+    174.796424,
+    "Waterview Road",
+    "Off Walmsley. Creek and upper Manukau Harbour views.   Named before 1942."
+  ],
+  [-36.942061, 174.772914, "Watervista Place", "Off House. View of Manukau harbour."],
+  [-36.975044, 174.809899, "Wayne Drive", "Off Duggan. Duggan family name."],
+  [-36.966413, 174.832735, "Wedgewood Avenue", "Off Gray/Hallberry. Early family."],
+  [-36.960066, 174.796855, "Welby Place", "Off Watchfield. Possibly after a television character Dr Welby."],
+  [-36.950955, 174.773281, "Wellesley Road", "Off Wallace. Wellesley Massey father and Sel Massey the land owner."],
+  [-36.979534, 174.790263, "Westney Road", "Off Kirkbride. Early farmers."],
+  [-36.963277, 174.814569, "Wickman Way", "Off Buckland/Tennessee. Frank Wickman worked for Māngere County Town."],
+  [
+    -36.963657,
+    174.827166,
+    "William Street",
+    "Off Ferguson. Christina Massey subdivided the area after her husband William Ferguson Massey's death. In 1937 it had 10 residences."
+  ],
+  [
+    -36.969608,
+    174.798878,
+    "Willis(?)",
+    "In 1937 it was 1 mile long, with two residences and named around 1887. No longer there."
+  ],
+  [-36.968612, 174.788711, "Wimpey Street", "Off Solent. Wellington bomber from cartoon of Wellington Wimpey."],
+  [-36.975075, 174.80001, "Windrush Close", "Off Cornwall. Name of ship and Oxford placename."],
+  [-36.972674, 174.824249, "Winthrop Way", "Off Henwood/Raglan. Surname."],
+  [-36.943565, 174.766926, "Witla Court", "Off Muir. Cardiff placename."],
+  [-36.976874, 174.832495, "Woburn Street", "Off Raglan. Southern town and RNZAF base."],
+  [-36.956609, 174.825442, "Wood Avenue", "Off Blake. Ron Wood was Manukau City Council City Manager."],
+  [
+    -36.943336,
+    174.784722,
+    "Woodward Avenue",
+    "Off Kiwi/Taylor. Laura Woodward was the first teacher at Māngere Bridge. Named before 1942."
+  ],
+  [
+    -36.963876,
+    174.82182,
+    "Yates Road",
+    "Off Massey/Wickman. Arthur Yates was an early landowner and a nurseryman growing seeds for farmers. Named before 1942."
+  ],
+  [-36.94221, 174.767422, "Yorkton Rise", "Off Kiwi. Placename in Saskatoon."]
+]

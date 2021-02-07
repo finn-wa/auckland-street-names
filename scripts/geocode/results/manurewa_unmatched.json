@@ -1,0 +1,100 @@
+[
+  {
+    "info": "The road to the local airfield.",
+    "parsed_street": "Airfield Road",
+    "parsed_suburbs": ["Manurewa"],
+    "street": "Airfield Road",
+    "suburb": "Manurewa"
+  },
+  {
+    "info": "Named after the mother of Harry Beaumont.",
+    "parsed_street": "Alice Park",
+    "parsed_suburbs": ["Manurewa"],
+    "street": "Alice Park",
+    "suburb": "Manurewa"
+  },
+  {
+    "info": "Named after a Manukau City Council Town Planning officer.",
+    "parsed_street": "Dissmeyer Drive",
+    "parsed_suburbs": ["Manurewa"],
+    "street": "Dissmeyer Drive",
+    "suburb": "Manurewa"
+  },
+  {
+    "info": "Named after an army man.",
+    "parsed_street": "Dittmer Place",
+    "parsed_suburbs": ["Manurewa"],
+    "street": "Dittmer Place",
+    "suburb": "Manurewa"
+  },
+  {
+    "info": "Named after a Māori Reverend.",
+    "parsed_street": "Ihaka Place",
+    "parsed_suburbs": ["Manurewa"],
+    "street": "Ihaka Place",
+    "suburb": "Manurewa"
+  },
+  {
+    "info": "Named after Jack Conway, a Manukau City Councillor, long standing member of St John's and a Civil Defence leader.",
+    "parsed_street": "Jack Conway Avenue",
+    "parsed_suburbs": ["Manurewa"],
+    "street": "Jack Conway Avenue",
+    "suburb": "Manurewa"
+  },
+  {
+    "info": "William McLaughlin was a farmer living by McLaughlins Mountain. He purchased land from Edward Gibbon Wakefield and the New Zealand Land Company, and was from Scotland. Now renamed McLaughlins Lane.",
+    "parsed_street": "McL",
+    "parsed_suburbs": ["Manurewa"],
+    "street": "McLaughlins Road",
+    "suburb": "Manurewa"
+  },
+  {
+    "info": "Named after Prime Minister Massey, who was also the M.P. for the Manurewa area from 1911 to 1925. It was later renamed Maich Road.",
+    "parsed_street": "Massey Road",
+    "parsed_suburbs": ["Manurewa"],
+    "street": "Massey Road",
+    "suburb": "Manurewa"
+  },
+  {
+    "info": "So named as there were many timber mills and a flax mill here.",
+    "parsed_street": "Mill Road",
+    "parsed_suburbs": ["Manurewa"],
+    "street": "Mill Road",
+    "suburb": "Manurewa"
+  },
+  {
+    "info": "Named after Neil Park, a Housing Corporation supervisor.",
+    "parsed_street": "Neilpark Drive",
+    "parsed_suburbs": ["Manurewa"],
+    "street": "Neilpark Drive",
+    "suburb": "Manurewa"
+  },
+  {
+    "info": "Named after John Ryan, the subdivider.",
+    "parsed_street": "Ryan Place",
+    "parsed_suburbs": ["Manurewa"],
+    "street": "Ryan Place",
+    "suburb": "Manurewa"
+  },
+  {
+    "info": "Formerly Goodwin Way, but changed due to new owners of the land.",
+    "parsed_street": "Te Motu Way",
+    "parsed_suburbs": ["Manurewa"],
+    "street": "Te Motu Way",
+    "suburb": "Manurewa"
+  },
+  {
+    "info": "Named after the Army camp.",
+    "parsed_street": "Trentham Road",
+    "parsed_suburbs": ["Manurewa"],
+    "street": "Trentham Road",
+    "suburb": "Manurewa"
+  },
+  {
+    "info": "Named after a local family.",
+    "parsed_street": "Walters Road",
+    "parsed_suburbs": ["Manurewa"],
+    "street": "Walters Road",
+    "suburb": "Manurewa"
+  }
+]

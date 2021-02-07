@@ -1,0 +1,2107 @@
+[
+  {
+    "street": "Abiru Crescent",
+    "info": "Off Bicknell. Japanese for “to pour over or shower”.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Agar Place",
+    "info": "Off Hall. William Agar was an English landowner from North Pancras Station.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Aintree Avenue",
+    "info": "Off Ascot. The stables were in Montgomerie. Named after the English racecourse.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Alderman Place",
+    "info": "Off Savill. Jack Alderman was a carpenter with B.M.A. Construction.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Alderson Lane",
+    "info": "Off Tilberg.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Allen Avenue",
+    "info": "Off Buckland to Henwood. A son of W.F. Massey. In 1937 it had four residential houses.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ambury Road",
+    "info": "Off Muir. Ambury Brothers were farmers, milk suppliers and exporters. Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Amelia Earhart Avenue",
+    "info": "Off Richard Pearse. The aviatrix who flew the Tasman.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Anarahi Place",
+    "info": "Off Waterloo. Many caves.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Andes Avenue",
+    "info": "Off Kiwi. Named for the troop ship, and the range of mountains in South America.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Andrew Baxter Drive",
+    "info": "Off Ascot. Baxter and Grant were industrial estate developers.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Andrew McKee Avenue",
+    "info": "Off George Bolt Drive. Air Marshall Sir A. McKee was a director of the National Airways Corporation (NAC) and Air New Zealand.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Anson Row",
+    "info": "Off Wimpey-Solent. Name from the Avro Anson aircraft.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ansty Place",
+    "info": "Off Windrush. Auster aircraft manufactured in this village.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Appleby Place",
+    "info": "Off Skipton. Local residents.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Archboyd Avenue",
+    "info": "Off Garus. Archibald McKechnie Boyd was a community planner with the Ministry of Works and planned state housing in South Auckland.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ari (?)",
+    "info": "Off Cyclamen.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ascot Road",
+    "info": "Off Kirkbride. Major Greenwood's series of farms in Māngere in the 1850s (one of which was Allotment 83, Parish of Manurewa) was named 'Ascot', and Ascot Road goes through that area. In 1937 it was 1380 yards long, had six residences and named around 1887.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ashcroft Avenue",
+    "info": "Off Bader Drive. Edgar Ashcroft was County Clerk of Manukau County.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ashgrove Road",
+    "info": "Off Bader Drive. English placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ashley Avenue",
+    "info": "Off Robertson Road. Name associated with the Canterbury Association.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ashmore Place",
+    "info": "Off Hall Avenue. Ship came to New Zealand.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Asics Drive",
+    "info": "Off Dewhurst. Sports shoe brand.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Aspenwood Place",
+    "info": "Off Bicknell. English placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Atiu Place",
+    "info": "Off Enuamanu. Island in Cook Island group.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Auster Place",
+    "info": "Off Convair. Aircraft manufacturer.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Avro Place",
+    "info": "Off Viscount. Avro Anson was a training plane.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Bader Drive",
+    "info": "Off McKenzie. Squadron Leader Sir Douglas Bader lost both legs in World War Two.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Balnoon Place",
+    "info": "Off Chalfont. Scottish placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Banbury Place",
+    "info": "Off Kiwi Esplanade. Family lived locally, or English placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Bari Lane",
+    "info": "Off Robertson. Italian seaport on Adriatic used by New Zealanders in World War Two.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Beach Road",
+    "info": "Off James Fletcher. Access to local foreshore. In 1937 it had seven residences.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Bede Place",
+    "info": "Off Elmdon. Male first name.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Bedlow Place",
+    "info": "Off Chalfont. Buckinghamshire village.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Bellard Place",
+    "info": "Off Lyncroft. Brian Bellard was a member of the Manukau Council staff.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ben Lora Place",
+    "info": "Off Buckland. Placename in Argyle, Scotland.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Beryl Place",
+    "info": "Off Wedgewood. A daughter of Mr Idonie who subdivided the land in the 1950s.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Betula Place",
+    "info": "Off McKenzie. Scientific name for paper birch.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Bicknell Road",
+    "info": "Off Lenore. Stephen Bicknell was a New Zealand photographer(?)",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Bingara Place",
+    "info": "Off Robertson. Aboriginal name for a creek or river crossing in New South Wales.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Blake Road",
+    "info": "Off Vine. Rod Blake was an architect with B.M.A. Construction.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Bodmin Place",
+    "info": "Off Chalfont. Village in north Cornwall.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Borlase Lane",
+    "info": "Off Langloise. William Early Borlase was a surveyor and friend of Edwin Gibbon Wakefield.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Boyd Avenue",
+    "info": "Off Wallace. John James Boyd was a zookeeper and briefly in 1917 Mayor of Onehunga Borough, who also lived in the area. Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Brigade Road",
+    "info": "Off Andrew and Baxter.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Brunswick Rise",
+    "info": "Off Cyclamen. A Canadian province.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Buckland Road",
+    "info": "Off Portage and Robertson. Albert W. Buckland was a local landowner who had his own racetrack. He arrived in Auckland in the 1850s.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Bukem Place",
+    "info": "Off Gadsby. L.T.J. Bukem was a top drummer and bass player.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Burbridge Road",
+    "info": "Off Wakefield. Margaret Burbridge worked the Hubble Telescope.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Calthorp",
+    "info": "Off Robertson. English placename and that of a vintage motorbike.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Calvert Close",
+    "info": "Off Robertson. Early settler in the area, formerly Third Avenue.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Cameo Court",
+    "info": "Off Robertson. An onyx carved in relief.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Canning Crescent",
+    "info": "Off Mascot. Named after a local developer, or Sir George Canning.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Cape Road",
+    "info": "Off Thomas. Subdivided by Mr Thomas. Similar to Cape in Cornwall.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Carnac Place",
+    "info": "Off Ferguson. Scottish placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Caravelle Close",
+    "info": "Off Valiant. French aeroplane.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Cardrona Place",
+    "info": "Off Wakefield. Placename from both Scotland and the South Island.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Carver Place",
+    "info": "Off Steven. Possibly named after a Lands and Survey staff member.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Cessna Place",
+    "info": "Off Bader. Named after the American plane manufacturer Clyde V. Cessna.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Chadwick Crescent",
+    "info": "Off Ferguson. Possibly named after a Lands and Survey staff member.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Chalfont Street",
+    "info": "Off Yates. Buckinghamshire village.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Chaplin Street",
+    "info": "Off Rosella. Close to Metro Theatre - film star, or a local name? Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Chayward Place",
+    "info": "Off Naylor. Possibly an American author.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Chelburn Crescent",
+    "info": "Off Wickman. Scottish placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Cheviot Street",
+    "info": "Off Buckland. Hills separating England and Scotland.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Chine Place",
+    "info": "Off Calthorp. Narrow valley or ravine.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Chingford Close",
+    "info": "Off Ashgrove. Similar English names of Ilford and Wanstead nearby.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Chipping Dale",
+    "info": "Off Kiwi. Albertan placename, or golf or “Chip & Dale“?",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Church Road",
+    "info": "Off Coronation. Named after the historic St James Anglican Church built out of stone. In 1937 the road was 1100 yards long and supposedly named around 1887.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Cinnamon Road",
+    "info": "Off Tidal. Bark of the Laurel tree used for seasoning.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Claresholm Place",
+    "info": "Off Kiwi. Albertan placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Cleek Road",
+    "info": "Off Tennessee. Golfing term or should be Creek?",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Clyro Place",
+    "info": "Off Chelburn. Welsh placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Colin Street",
+    "info": "Off Tidal. A son of the Watt family who was an engineer on the Doric Star and was lost at sea.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Comet Crescent",
+    "info": "Off Bader. First jet airliner.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Conifer",
+    "info": "Off Scott. Conifers used to grow around the base of Māngere Mountain.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Convair Lane",
+    "info": "Off Idlewild. Name of aircraft.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Coptic Place",
+    "info": "Off Robertson. Saw Savill Albion ship, a sister to the Gothic.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Cornwall Road",
+    "info": "Off Thomas. Subdivided by Mr Thomas who came from Cornwall.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Coronation Road",
+    "info": "To McKenzie. Crowing of Royalty.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Corsair Crescent",
+    "info": "Off Valiant. American plane.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Cottingham Crescent",
+    "info": "Off Garus. English placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Court Town Close",
+    "info": "Off Bader. Adjacent to Māngere Town Centre.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Courtenay Crescent",
+    "info": "Off Winthrop. Possibly named after local resident.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Cranmere Crescent",
+    "info": "Off McKinstry. British aerodrome.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Crawford Avenue",
+    "info": "Off Eastie / Waterfront. Local farmer. Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Creamery Road",
+    "info": "Off Kirkbride. Ambury's creamery was here.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Cromer Place",
+    "info": "Off Cottingham. Possibly after the place in Norfolk.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Crossandra Drive",
+    "info": "Off Cyclamen. Named after the hedgeplant, with a firecracker flower.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Cullinan Avenue",
+    "info": "Off Kohinoor. Name of a famous diamond.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Curlew Avenue",
+    "info": "Off Calthorp. The largest English wading bird.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Cyclamen Road",
+    "info": "Off Peninsula. Flowering bulb.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Cyril Kay Road",
+    "info": "Off George Bolt. The Air Marshall who commanded Number 75 Squadron in the Battle of Britain.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Daley(?)",
+    "info": "Off Muir. Scottish placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Daniel Avenue",
+    "info": "Off James. Son of local residents.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Deborah Place",
+    "info": "Off Tranant. First name.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Derrett Place",
+    "info": "Off Matapouri. The family lived in the Cairnhill farmhouse on Ambury Road.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Desford Place",
+    "info": "Off Staverton. Possibly after the Leicester placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Dewhurst Place",
+    "info": "Off Favona. James Dewhurst was caretaker of the Māngere East Hall for many years.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Dole Place",
+    "info": "Off Orrell. Possibly after the pineapple brand.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Domain Road",
+    "info": "Off Coronation. Māngere Mountain Domain access.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Doncaster Street",
+    "info": "Off Aintree. English racecourse.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Donnell Avenue",
+    "info": "Off Walmsley. Thomas and Matilda Donnell lived in Walmsley Road here.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Dreifuss Place",
+    "info": "Off Gray. The dentist Dr Dreifuss lived in Gray Avenue.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Driver Road",
+    "info": "Off Tennessee. Near the golf course and likely named after George Driver, a roading engineer with Stevensons. Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Duggan Avenue",
+    "info": "Off Massey/Friesian. Possibly named after a surveyor.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Dunstall Place",
+    "info": "Off Coronation. English placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Earlsworth",
+    "info": "Named before 1942, now no longer there as one in Papatoetoe instead.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Eden Street",
+    "info": "Off Landon. The second Lord Auckland was first Lord of the Admiralty in Governor Hobson's time.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Electra Place",
+    "info": "Off Mariner. A passenger plane.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Elmdon Street",
+    "info": "Off Bader/Hall. English placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ensor Place",
+    "info": "Off Massey.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Enuamanu Road",
+    "info": "Off Gadsby. A Cook island name, island of birds.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ettrick Road",
+    "info": "Off Chelburn. A placename from the Scottish borders.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ewart Road",
+    "info": "Off Massey. Ewart was the United States camp commander whose barracks were on the site of the Otahuhu trotting course.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Fairey Place",
+    "info": "Off Viscount. World War Two aircraft manufacturer.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Fallsbrook Lane",
+    "info": "Off Taylor. Named after the hospital run by Bill Kirk's grandmother.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Fareti Place",
+    "info": "Off Manston. Samoan for Freddy.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Farmer Street",
+    "info": "Off Tennessee. James Farmer owned Puketutu Island and was a member of the Auckland Provincial Council.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Farnborough Lane",
+    "info": "Off Plumley. There is an annual aircraft display at this English airfield.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Favona Road",
+    "info": "Off Robertson/James Fletcher. The name given to Robertson's cattle, means westerly wind. Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Feltwell Place",
+    "info": "Off Ashcroft. Base of 15th RNZAF Squadron in England.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ferguson Street",
+    "info": "Off Massey. Christina Massey's husband was William Ferguson Massey. In 1937 it had nine residences.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Fifth Avenue",
+    "info": "In 1937 it had one residence. Now?",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "First Avenue",
+    "info": "Now Hain. In 1937 it had six residences.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Fitchburg Place",
+    "info": "Off Peninsula. Surname.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Fleming Street",
+    "info": "Off Tennessee. Possibly the name of a State Advances Corporation staff member.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Forbes Road",
+    "info": "Off Favona. Subdivider.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Forbury Place",
+    "info": "Off Mascot. A village in Berkshire and a trotting track in New Zealand.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Foster Place",
+    "info": "Off Cottingham. Possibly named after a Lands and Survey staff member.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Fourth Avenue",
+    "info": "Noted in 1937. Now?",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Fred Ladd Way",
+    "info": "Off Cyril Kay. Sea plane and amphibian aviator.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Freda Place",
+    "info": "Off Lenore. Girl's first name.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Friesian Drive",
+    "info": "Off Massey / Mascot. The breed of cattle on Mr Thompson's dairy farm.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Gadsby Road",
+    "info": "Off Robertson. Named after New Zealand comedian Jon Gadsby.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ganges Avenue",
+    "info": "Off Calert. Name of an early 1860s immigrant ship.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Gardiner Grove",
+    "info": "Off Von Sturmer. Market gardeners - spelling?",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Garus Avenue",
+    "info": "Off Wickman. Pauline Garus was the secretary to the first and second Mayors of Manukau City.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Gee Place",
+    "info": "Off Tidal. Joe Gee had a training track at the corner of Massey and Buckland Roads.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Geoffrey Place",
+    "info": "Off Henwood. Baby son of Idoine family.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Geoffrey Roberts Road",
+    "info": "Off A. McKee. Chairman of the National Airways Corporation (NAC).",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "George Street",
+    "info": "Off Massey. Name of a Massey son. In 1937 it had two residences.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "George Bolt Memorial Drive",
+    "info": "Off Kirkbride. An early flying instructor who flew Auckland to Wellington.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ginko Place",
+    "info": "Off Crossandra. Exotic tree.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Glenpark Place",
+    "info": "Off Gadsby. English placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Goodwin(?)",
+    "info": "Off Robertson. The developer was Peter Goodwin.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Graeme Avenue",
+    "info": "Off Buckland. Son of Mrs Fenton, landowner, who was a Spitfire pilot killed in World War Two.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Grangewood Close",
+    "info": "Off Gadsby. English placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Gray Avenue",
+    "info": "Off Massey/Portage. Isaac Gray and family farmed land in the Portage Road area and this gave access to their home.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Greenwood Road",
+    "info": "Off Ascot. Major Joseph Greenwood owned the Ascot estate. In 1937 it was 3/4 of a mile plus 80 yards long, with 13 residences and likely named around 1887.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Growers Lane",
+    "info": "Off Yates. Seed merchants for local farmers.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Haddon Street",
+    "info": "Off Henwood. Possibly named after a Māori Methodist minister.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Hain Avenue",
+    "info": "Off Massey. D.C.S. Hain was a local landowner - formerly First Avenue.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Hall Avenue",
+    "info": "Off Favona/Robertson. William Hall was the local landowner.   In 1937 it had 17 residences.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Hallberry Road",
+    "info": "Off Graeme. The landowner was Mrs Halberry and was farmed from 1891.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Halswell Street",
+    "info": "Off Ashley. E.S. Halswell came in 1841 with the NZ Company settlement.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Hape Drive",
+    "info": "Off Tom Pearce. Maori legendary figure, arrived on back of a stingray.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Harania Avenue",
+    "info": "Off Favona. Making a mistake.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Hardie Street",
+    "info": "Off Robertson. Valentine S. Hardie was an engineer, and lived at the corner at Culverden's old villa.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Harriet Street",
+    "info": "Off Donnell. Wife of Mr Masters.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Harvard Place",
+    "info": "Off Elmdon. North American trainer plane.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Harwell Place",
+    "info": "Off Killington. Airfield in England.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Hastie Avenue",
+    "info": "Off Coronation. Joseph Hastie famed in the area and was a member of the Highway Board and then the first Onehunga Borough Council. It was named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Henwood Road",
+    "info": "Off Massey. The family lived on the corner with Massey Road.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Heyford Close",
+    "info": "Off Mascot. Airfield in England.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Hilda Road",
+    "info": "Off Forbes. Mrs Hilda Forbes.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Hinau Road",
+    "info": "Off McKenzie. Native tree.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Hocken Place",
+    "info": "Off Coronation. Thomas Morland Hocken was a collector of early New Zealand history.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Hokianga Street",
+    "info": "Off Raglan. Northern harbour.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "House Avenue",
+    "info": "Off Muir. S.W. House served on several local bodies and gave land for the park at Māngere Central and Māngere East House Park Trust. It was named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Humphreys Place",
+    "info": "Off Ashgrove. Landowner.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Idlewild Avenue",
+    "info": "Off Kirkbride/Bader. The former name of JFK airport in New York.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ihumatao Road",
+    "info": "Off George Bolt. Cold nose or just nose of Mataoho, the Māori god of volcanoes and earthquakes. In 1937 it was 1 mile and 220 yards long, with 14 residences and named around 1887.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ilford Crescent",
+    "info": "Off Ashgrove. London suburb near Chingford and Purley.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Imrie Avenue",
+    "info": "Off Massey/Friesian. Maiden name of Mrs Neville Thompson - landowners.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Island Road",
+    "info": "Off Greenwood. Access road to Puketutu Island.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Jacqueline Place",
+    "info": "Off Robertson. Possibly Jacqueline Carver.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "James Street",
+    "info": "Off Massey. The land belonged to James G. Hardie before being developed by G. Dreardon. It isn't named after George E. James who served on the Onehunga Borough Council 1884 - 1886.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "James Fletcher Drive",
+    "info": "Off Favona. Founder of the steel mill, once called Favona.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Jaylo Place",
+    "info": "Off Naylor. Named after Jennifer Lopez - singer.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "John Street",
+    "info": "Off Massey/Allen. A son of William Ferguson Massey.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "John Goulter Drive",
+    "info": "Off George Bolt. First Chief Executive Officer and later Managing Director of Auckland Airport.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Jordan Road",
+    "info": "Off Kirkbride/Thomas. Sir William Jordan was Labour MP for Manukau/Onehunga and later High Commissioner to London.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "IGNORE",
+    "info": "Off Donnell. Leonard Jowitt was a hero of the 85th Squadron in the Battle of Britain.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Jury Place",
+    "info": "Off Harania. Possibly named after a Lands and Survey staff member.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kahu Street",
+    "info": "Off James Fletcher. Cloak.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kairanga Road",
+    "info": "Off Raglan. Sandbank or pulled up by the roots.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kaka Street",
+    "info": "Off Tui/Titi. Native bird.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kamaka Road",
+    "info": "Off Mountain. Stone or rock.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kambalda Street",
+    "info": "Off Tarata. Aboriginal placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kanohi Terrace",
+    "info": "Off Ridgemount. Eye or face/view.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kapuka Road",
+    "info": "Off Wallace. Native broadleaf tree.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kea Place",
+    "info": "Off Wallace. Small parrot.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kelburn Lane",
+    "info": "Off Ilford. Son of the Earl of Glasgow, Governor of New Zealand 1892 - 1897.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kemble Close",
+    "info": "Off Mascot. Name of airfield in Cirencester.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kenton Lane",
+    "info": "Off Ilford. Devonshire placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kiekie Road",
+    "info": "Off Wellesley. Parasitic giant.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Killington Crescent",
+    "info": "Off Orly/Staverton. English placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kingfisher Place",
+    "info": "Off Waterview. Native bird.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kingsford-Smith Place",
+    "info": "Off Richard Pearse. Sir Charles Kingsford-Smith undertook the first crossing of the Tasman by air.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kirkella Crescent",
+    "info": "Off Garus. Ella Kirk was the mother of Bill Kirk.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kirkbride Road",
+    "info": "Off Mountain/Massey. Matthew Middlewood Kirkbride (1848 - 1906) was chairman of the Māngere Roads Board 1902 - 1906. It was named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kivell Close",
+    "info": "Off Robertson. Housing Corporation employee.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kiwi Esplanade",
+    "info": "Off Coronation and by Māngere Bridge. This was the nickname of Mrs Kewene, and the name of a native bird. In 1937 it was 770 yards long, with 15 residences and named around 1927. It was developed during the 1930's depression.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kohanga Road",
+    "info": "Off Miro. Nest.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kohinoor Avenue",
+    "info": "Off Westney. Precious jewel in the Royal Crown.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Korimako Avenue",
+    "info": "Off Tarata. Bell bird.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Koru Street",
+    "info": "Off Kamaka. Unfurling fern frond used in Maori carvings.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Kowhai Avenue",
+    "info": "Off Wallace. Flowering native tree.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Lachlan Place",
+    "info": "Off Harania. A Navy survey frigate.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Landon Avenue",
+    "info": "Off Gray / Graeme. Local landowners.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Langiola Drive",
+    "info": "Off Wakefield. Placename in Samoa.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Laurence Stevens Drive",
+    "info": "Off George Bolt. Sir Laurence Stevens was the first director of the Airport Company.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Lavinia Crescent",
+    "info": "Off Allen. Girl's name.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Lawford Place",
+    "info": "Off Staverton. Possibly after Peter Lawford the actor.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Leeson Place",
+    "info": "Off Duggan. Possibly after Nicholas Leeson who bankrupted the Baring Bank in Singapore.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Lenore Road",
+    "info": "Off Gadsby. Named by Manukau City but supposed to be Lenora.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Leonard Isitt Drive",
+    "info": "Off John Goulter. Air Vice Marshall and first to carry a pilot's licence.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Lindis Place",
+    "info": "Off Muir. Scottish and South Island placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Linnet Place",
+    "info": "Off Von Sturmer. Scottish song bird/thrush.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Lolim Place",
+    "info": "Off Norana. Possible after the African witchdoctor.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Lotus Lane",
+    "info": "Off Earlsworth. Water plant.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Lympne Lane",
+    "info": "Off Farnborough. Kent airfield used by New Zealanders in World War Two.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Lyncroft(?)",
+    "info": "Off Buckland/Ashley. Name of British hotel.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Lynette Place",
+    "info": "Off Idlewood. Girl's name.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Lytham Lane",
+    "info": "Off Cranmere. Name of aviation company and English placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Macky Avenue",
+    "info": "Off Blake. Manukau County engineer.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "McBurney Place",
+    "info": "Off Calvert. Local farmer.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "McIntyre Road",
+    "info": "Off Coronation/Wallace and by Māngere Bridge. Captain James McIntyre was an ironmonger and a member of the local Road Board and Onehunga Borough Council. Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "McKenzie Road",
+    "info": "Off Walmsley/Kirkbride. Hugh Mckenzie owned the Acott farm and chaired the Auckland Harbour Board in the 1920's. Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "McKinstry Avenue",
+    "info": "Off Robertson/Garus. Ben McKinstry was chairman of Māngere East County Town.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "McNaughton Avenue",
+    "info": "Off McKinstry/Garus. Gordon McNaughton was a member of the Māngere East County Town board.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Mahunga Drive",
+    "info": "Off Walmsley/Rimu. Head or lock of hair.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Maitland Place",
+    "info": "Off Quennell. Local family name.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Malcolm Place",
+    "info": "Off Wedgewood. Son of Mr Idonie, the subdivider and builder.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Māngere Road",
+    "info": "There in 1937.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Manston Road",
+    "info": "Off Plumley. Name of an airfield close to London.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Manu Street",
+    "info": "Off Kahu. Maori for bird.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Mariner Street",
+    "info": "Off Viscount/Wimpey. Name of a flying boat.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Mary Place",
+    "info": "Off Forbes. Member of the Forbes family.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Mascot Avenue",
+    "info": "Off Bader. Name for Kingsford-Smith airport in Sydney.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Massey Road",
+    "info": "Off Kirkbride/Māngere. Named after William Ferguson Massey (1850 - 1925), farmer, M.P. and Prime Minister 1912 - 1925. In 1937 it was 1 / 2 mile long, with 12 residences and named around 1887 (?).",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Masters Place",
+    "info": "Off Donnell. Mr Masters lived behind Donnells the contractor.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Matapouri Road",
+    "info": "Off Wallace. Shellfish.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Matchett Way",
+    "info": "Off Taylor. The landowning family lived on Taylor Road.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "May Road",
+    "info": "Off Rosella. May Brady was the wife of the subdivider and there is already a Brady Road in Otahuhu. In 1937 there were three residences.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Mayflower Close",
+    "info": "Off Raglan. Name of the Pilgrim's ship to North America.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Maynard Place",
+    "info": "Off Taylor. Local family.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Mervan Street",
+    "info": "Off Ashley. Local family.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Miami Street",
+    "info": "Off Massey. In 1937 there were two residences.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Michelle Place",
+    "info": "Off Cullinan. Girl's first name.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Mikasa Place",
+    "info": "Off Courtown. Tableware and 1904 Japanese flag ship.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Miller Road",
+    "info": "Off Wallace / McKenzie. Local family. In 1937 it was 490 yards long, with four residences and named around 1925.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Miro Road",
+    "info": "Off Coronation. Native tree which matures in 400 years.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Moffitt Place",
+    "info": "Off James. Early landowners William and Eban Moffitt.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Molesworth Place",
+    "info": "Off Hall. Sir William Molesworth from the New Zealand Company.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Moana(?)",
+    "info": "In 1937 it was eight chains long, with five residences and named around 1931. No longer there.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Mona(?)",
+    "info": "Off Eastie. Mona and Alf Powdrell had glasshouses here.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Montgomerie Road",
+    "info": "Off Ascot/George Bolt. Early farming family. Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Morewood Lane",
+    "info": "Off Tilburg. English placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Mountain Road",
+    "info": "Off Coronation/Wallace. At base of Māngere Mountain. In 1937 it was 3/4 mile long, with 11 residences and named around 1887.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Muir Avenue",
+    "info": "Off Wallace. Early family. In 1937 it was 1/2 mile long, with five residences and named around 1929.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Nadine Place",
+    "info": "Off Seaforth. Girl's first name.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Naylors Drive",
+    "info": "Off Kirkbride. Murray Naylor was the developer.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Nevis Place",
+    "info": "Off Friesian. In an area of other Scottish names.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ngaio Avenue",
+    "info": "Off Shortt. Native tree with thick bark.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Nicola Place",
+    "info": "Off Friesian. Girl's first name.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Nixon Avenue",
+    "info": "Off George Bolt. Colonel Marmaduke Nixon commanded the defence forces and lived at Homewood farm. In 1937 it was 1/2 mile long, with two residences and named around 1887.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Norana Avenue",
+    "info": "Off Favona. In 1937 it had nine residences.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Norton Place",
+    "info": "Off Staverton. Possibly named after a Lands and Survey staff member.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Norwalk Crescent",
+    "info": "Off Peninsula. Possibly north walk.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ogilvie Crescent",
+    "info": "Off George Bolt. Bertram Ogilvie was a New Zealand aviation pioneer who developed aerilon control from 1907 to Richard Pearse. He died in Hastings 3 May 1944.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Opawa Crescent",
+    "info": "New Zealand placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Orakau Road",
+    "info": "Off Gray. Battle in the land wars. In 1937 it had one residence.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Orly Avenue",
+    "info": "Off Bader/Thomas. Paris airport.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Orrell Place",
+    "info": "Off Massey. David Orrell was the developer.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Oruarangi Road",
+    "info": "Off Ihumatao/Ascot. Place of Ruarangi or the fairy people.   It was named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Orville Place",
+    "info": "Off Idlewood. Named after Orville Wright, early American aviator.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Otago Place",
+    "info": "Off Lenore. Named after the naval ship or the part of the South Island.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Outrigger Place",
+    "info": "Off Manston. Canoe sport popular on the Manukau Harbour.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Paine Place",
+    "info": "Off Friesian. Farmer who lived there 35 years.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Parkstone Place",
+    "info": "Off Gadsby. English placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Peachwood Place",
+    "info": "Off Lenore. English placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Penderford Place",
+    "info": "Off McNaughton. Possibly named after the cello and bass maker.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Peninsula Road",
+    "info": "Off Massey/Cyclamen. Land shape.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Pershore Place",
+    "info": "Off Massey. English placename for Worcestershire and Hertfordshire.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Pike Place",
+    "info": "Off McKinstry. Possibly named after a Housing Corporation staff member.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Pikitea Road",
+    "info": "Off Wallace. White feather, or upwards or aim high.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Pito Place",
+    "info": "Off Ventura. Should be pitot tube for the airspeed on an aeroplane.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Plumley Crescent",
+    "info": "Off Massey. Landowner and subdivider.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Portage Road",
+    "info": "Off Tidal / Buckland. Māori canoe or waka portage.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Prangley Avenue",
+    "info": "Off Massey.  Albert Prangley was a timber feller and his son a farmer in the area.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Proctor Place",
+    "info": "Off Idlewood. Percival Proctor brand trainer aeroplane.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Pukaki Road",
+    "info": "Off Massey. Lagoon cut of from the sea, and originally surrounded by kauri trees. It was named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Puketutu Island",
+    "info": "Hill of tutu - native shrubs.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Purata Place",
+    "info": "Off Matpouri. Clear or very calm, as waters of Manukau.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Purley Place",
+    "info": "Off Ashgrove. English suburb of Croydon.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Putini Road",
+    "info": "Off Mountain. Pu - tribe, tini - very many.  Name of Māori Methodist missioner.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Quarry Road",
+    "info": "Off Oruarangi. Quarry access road. It was named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Quennell Avenue",
+    "info": "Off Harania. French for oak tree.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Raglan Street",
+    "info": "Off Buckland. Lord Raglan was the British commander in the Crimean War.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Rawhiti(?)",
+    "info": "It was named before 1942 and is no longer there.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ray Emery Drive",
+    "info": "Off Tom Pearce. RNZAF Squadron Leader and Māngere Airport manager.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Reef Place",
+    "info": "Off Cyclamen. Ride of rocks or an obstruction.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Regalwood Place",
+    "info": "Off Gadsby. English placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Rennie Drive",
+    "info": "Off Montgomerie. John and Trevor Rennie were landowners.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Renton Road",
+    "info": "Off Ihumatao. Combination of Rennie and Morton surnames.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Retreat Drive",
+    "info": "Off Cinnamon. Peaceful solitude",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Richard Road",
+    "info": "Off Prangley. From the Prangley family.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Richard Pearse Drive",
+    "info": "Off Ascot. Pioneer New Zealand aviator.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ridgemount Rise",
+    "info": "Off Wallace. The hardware code of Mrs Garrett's parent. Garrett was a landowner and Manukau County deputy engineer.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Rimu Road",
+    "info": "Off Coronation. Drooping spiky leafed native tree.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Robertson Road",
+    "info": "Off Favona/Massey. David Robertson arrived in 1843 to farm and his two sons and a cousin later farmed there also. The cousin Westney started the Auckland Agricultural and Pastoral Show. In 1937 it had one business and 30 residences.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Robyn Place",
+    "info": "Off Hallberry. A younger daughter of the subdividing Idoine family.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Rock Daisy Crescent",
+    "info": "Off Tussock. A small flowering plant.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Rod Place",
+    "info": "Off Rosella. A boy's first name.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Roell Place",
+    "info": "Off Kivell. Employee of Housing Corporation.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Rosella Road",
+    "info": "Off Massey/Gray. Mr Thompson's farm. Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Royton Avenue",
+    "info": "Off Buckland. Royton Montieth was a local landowner.   Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ruaiti Road",
+    "info": "Off Oruarangi. Small hole as in a food pit.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Rush Place",
+    "info": "Off Ashgrove. Jack Rush was a senior staff member at B.M.A. Construction.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ryehill Close",
+    "info": "Off Bader. Medieval Cinque Port in East Sussex.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Rymer Place",
+    "info": "Off Mahunga. Dean of Auckland in 1970.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Savill Drive",
+    "info": "Off Massey. Shipping company Shaw Savill Albion.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Saybrook Place",
+    "info": "Off Peninsula. Placename in Connecticut.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Scott Avenue",
+    "info": "Off Taylor/Church. Landowners and flower growers. In 1937 it was 770 yards long, with 3 residences and named around 1925.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Seaforth Avenue",
+    "info": "Off Kiwi/Muir. Once beach road ran to the harbourside.   Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Sealand Place",
+    "info": "Off Kiwi. View from here.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Secoia Crescent",
+    "info": "Off Cyclamen. Service and ecology for automotive industry - the Peugeot subsidiary.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Second Avenue",
+    "info": "In 1937 it had seven residences. Now?",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Shah Place",
+    "info": "Off Naylor. Indian purchaser in this area.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Shortt Avenue",
+    "info": "Off Kiwi / Church. The early settler family provided the house for the first Māngere East school. In 1937 it was 440 yards long, with four residences and named around 1925.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Sid Place",
+    "info": "Off Naylor. The name of the developer's dog.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Skipton Street",
+    "info": "Off Henwood/Portage. Yorkshire placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Solent Street",
+    "info": "Off Wimpey/Viscount. Passenger flying boat.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Sperry Place",
+    "info": "Off Mariner. Manufacturer of aircraft parts.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Staines Avenue",
+    "info": "Off Eden. Local family name.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Staverton Crescent",
+    "info": "Off Orly. English placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Steen Place",
+    "info": "Off Ridgemount. Surname.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Steven Street",
+    "info": "Off Robertson/Jacqueline. Boy's first name.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Sullivan Avenue",
+    "info": "Off Boyd/Muir. Local family.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Sutton Avenue",
+    "info": "Off Blake. Robert Sutton was an early landowner.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Swanson Road",
+    "info": "Off McIntyre. Landowner and developer in the Māngere bridge area. In 1937 it was 220 yards long, with two residences and named around 1925.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tacon Place",
+    "info": "Off Idlewood. Wing commander in World War Two.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tainui Terrace",
+    "info": "Off Church. Māori waka.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tamar Place",
+    "info": "Off Kirkella. Devonshire river and passenger ship around 1858.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tanners Road",
+    "info": "Off Coronation. Local family. Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tannock Place",
+    "info": "Off Wickman. Scottish placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tarata Crescent",
+    "info": "Off McKenzie. Lemonwood tree, and a creek with this name flows nearby.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Taylor Road",
+    "info": "Off Coronation/Wallace. Cornelius Taylor lived opposite his cousin John Edward Taylor at Waterlea farm. In 1937 it was 1100 yards long, with 17 residences and named around 1922.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tennessee Avenue",
+    "info": "Off Massey/Blake. American state. Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Teo Lane",
+    "info": "Off Bader. Samoan male name.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Third Avenue",
+    "info": "Later Calvert.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Thomas Road",
+    "info": "Off Massey/Orly. Local farmers. In 1937 it was 280 yards long, with four residences and named around 1922.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Thompson Street",
+    "info": "Off Rosella. Thompson farmed at Rosella farm. Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tiari Place",
+    "info": "Off Raglan. Scent. There in 1937.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tidal Road",
+    "info": "Off Massey/Portage. Adjacent to the tidal Waokauri Inlet.   Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tilberg Street",
+    "info": "Off Robertson. Docks in London.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tinkler Place",
+    "info": "Off Harania. Local family.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tioro Lane",
+    "info": "Off Bader. Stitchbird.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Titi Street",
+    "info": "Off Kahu/Kiwi. Little.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Titoki Avenue",
+    "info": "Off Wallace. Native tree.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Toatoa Place",
+    "info": "Off Kapuka. Native tree.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tom Pearce Drive",
+    "info": "Off George Bolt. Colourful local body politician, and chairman of the Auckland Regional Council at the time the airport was opened in 1965.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tomes Lane",
+    "info": "Collection of books.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tomlin Place",
+    "info": "Off Crammond. Surname.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tranent Road",
+    "info": "Off Imrie. Scottish placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Trembath Avenue",
+    "info": "Off Farmer. Senior staff member at B.M.A. Construction.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tua Place",
+    "info": "Off Gadsby. David Tua, international boxer, lived in the area.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tui Road",
+    "info": "Off Favona/Titi. Native song bird.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Tussock Avenue",
+    "info": "Off Cinnamon. Native grass.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Umu Place",
+    "info": "Off Hall. Polynesian cooking method.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Upwood Place",
+    "info": "Off Killington. Surname.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Valetta Place",
+    "info": "Off Wimpey. Capital of Malta.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Valiant Street",
+    "info": "Off Mckenzie/Idlewood. Vickers Valiant bombers.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Ventura Street",
+    "info": "Off Bader/Elmdon. American twin engined bomber.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Vickers Crescent",
+    "info": "Off Valiant. British armament makers including the Wellington bomber.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "View Road",
+    "info": "Off Thomas. Mr Thomas the subdivider liked the view from here.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Vimy Place",
+    "info": "Off Viscount. Early bomber made between World War One and Two.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Vine Street",
+    "info": "Off Massey. Winery at the top of the street, and vines.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Viola Avenue",
+    "info": "Off Massey/Calvert. Early immigrant ship. In 1937 it had 13 residences.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Viscount Street",
+    "info": "Off Kirkbride. Passenger aircraft built by Vickers.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Von Sturmer Street",
+    "info": "Off Robertson. Local family.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Waiana Avenue",
+    "info": "Off Wellesley. Water in a cave and Massey piggery.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Waipouri Road",
+    "info": "Off Oruarangi. Sorrowing waters and local Māori name.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Wairoa(?)",
+    "info": "Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Wakefield Road",
+    "info": "Off Robertson. Local landowner.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Wakelin Road",
+    "info": "Off Vine. George Wakelin was a foreman with B.M.A. Construction.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Walden Place",
+    "info": "Off Woburn.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Waldos Way",
+    "info": "Off Naylor.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Wallace Road",
+    "info": "Off Church/Kirkbride. Several brothers farmed this land. In 1937 it was 1 mile and 110 yards long, with 13 residences and named around 1887.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Walmsley Road",
+    "info": "Off Coronation/Robertson. Early landowner, Captain Walmsley served under Colonel Nixon.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Walsh Brothers Place",
+    "info": "Off Geoffrey Roberts. The Walsh brothers built the first New Zealand flying school.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Walter Street",
+    "info": "Off Massey/Allen. A son of William Ferguson Massey.   In 1937 it had seven residences.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Wanstead Way",
+    "info": "Off Canning. Town in Essex.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Waokauri Place",
+    "info": "Off Tidal. Forest of kauri.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Warden Place",
+    "info": "Off Ambury. Wardens were used to supervise workers at Ambury Park",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Watchfield Close",
+    "info": "Off Elmdon. Near Swindon.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Watea(?)",
+    "info": "Named before 1942 and now gone.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Waterbury Place",
+    "info": "Off Peninsula.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Waterfront Road",
+    "info": "Off Coronation. Foreshore view.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Waterlea Avenue",
+    "info": "Off Ambury. Name of J.E. Taylor's farm. Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Waterview Road",
+    "info": "Off Walmsley. Creek and upper Manukau Harbour views.   Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Watervista Place",
+    "info": "Off House. View of Manukau harbour.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Wayne Drive",
+    "info": "Off Duggan. Duggan family name.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Wedgewood Avenue",
+    "info": "Off Gray/Hallberry. Early family.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Welby Place",
+    "info": "Off Watchfield. Possibly after a television character Dr Welby.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Wellesley Road",
+    "info": "Off Wallace. Wellesley Massey father and Sel Massey the land owner.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Westney Road",
+    "info": "Off Kirkbride. Early farmers.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Wickman Way",
+    "info": "Off Buckland/Tennessee. Frank Wickman worked for Māngere County Town.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "William Street",
+    "info": "Off Ferguson. Christina Massey subdivided the area after her husband William Ferguson Massey's death. In 1937 it had 10 residences.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Willis(?)",
+    "info": "In 1937 it was 1 mile long, with two residences and named around 1887. No longer there.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Wimpey Street",
+    "info": "Off Solent. Wellington bomber from cartoon of Wellington Wimpey.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Windrush Close",
+    "info": "Off Cornwall. Name of ship and Oxford placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Winthrop Way",
+    "info": "Off Henwood/Raglan. Surname.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Witla Court",
+    "info": "Off Muir. Cardiff placename.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Woburn Street",
+    "info": "Off Raglan. Southern town and RNZAF base.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Wood Avenue",
+    "info": "Off Blake. Ron Wood was Manukau City Council City Manager.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Woodward Avenue",
+    "info": "Off Kiwi/Taylor. Laura Woodward was the first teacher at Māngere Bridge. Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Yates Road",
+    "info": "Off Massey/Wickman. Arthur Yates was an early landowner and a nurseryman growing seeds for farmers. Named before 1942.",
+    "suburb": "Māngere-Ōtāhuhu"
+  },
+  {
+    "street": "Yorkton Rise",
+    "info": "Off Kiwi. Placename in Saskatoon.",
+    "suburb": "Māngere-Ōtāhuhu"
+  }
+]

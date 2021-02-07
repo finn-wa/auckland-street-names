@@ -1,0 +1,4 @@
+marshmallow
+marshmallow-dataclass[enum]
+requests
+requests-cache

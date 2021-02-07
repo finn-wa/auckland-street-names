@@ -1,0 +1,450 @@
+[
+  {
+    "info": "Noted by Waitemata County on 27 May 1954.",
+    "parsed_street": "Anawhata Road",
+    "parsed_suburbs": ["Waikumete"],
+    "street": "Anawhata Road",
+    "suburb": "Waikumete"
+  },
+  {
+    "info": "Named before 1961, but gone by 1975.",
+    "parsed_street": "Awa Awa Road",
+    "parsed_suburbs": ["Waitākere"],
+    "street": "Awa Awa Road",
+    "suburb": "Waitākere"
+  },
+  {
+    "info": "Noted by Waitemata County on 17 February 1928.",
+    "parsed_street": "Awaroa Road",
+    "parsed_suburbs": ["Kelston"],
+    "street": "Awaroa Road",
+    "suburb": "Kelston"
+  },
+  {
+    "info": "Named late 1950s. Changed to Ayrton Street in 1985 to avoid confusion with similar street names elsewhere in Auckland.",
+    "parsed_street": "Ayr Street",
+    "parsed_suburbs": ["Te Atatū"],
+    "street": "Ayr Street",
+    "suburb": "Te Atatū"
+  },
+  {
+    "info": "Named before 1961, but gone by 1975.",
+    "parsed_street": "Bayview Road",
+    "parsed_suburbs": ["Parau"],
+    "street": "Bayview Road",
+    "suburb": "Parau"
+  },
+  {
+    "info": "Named before 1961, it became Levy Road from February 1969.",
+    "parsed_street": "Bellevue Road",
+    "parsed_suburbs": ["Glen Eden"],
+    "street": "Bellevue Road",
+    "suburb": "Glen Eden"
+  },
+  {
+    "info": "In 1937 it was described as 27 chains long, with 14 residences and named 20 years before (1917) after local MP John Bollard (1839 - 1915) who represented the Eden electorate, which included New Lynn, from 1896 to 1914. It was formerly Canning Street when it was first subdivided 60 years before (1877). Later renamed Delta Crescent.",
+    "parsed_street": "Bollard Avenue",
+    "parsed_suburbs": ["New Lynn"],
+    "street": "Bollard Avenue",
+    "suburb": "New Lynn"
+  },
+  {
+    "info": "Named before 1961.",
+    "parsed_street": "Boundary Road",
+    "parsed_suburbs": ["Henderson"],
+    "street": "Boundary Road",
+    "suburb": "Henderson"
+  },
+  {
+    "info": "Named before 1961, it was renamed Kamara Road from February 1969.",
+    "parsed_street": "Campbell Road",
+    "parsed_suburbs": ["Glen Eden"],
+    "street": "Campbell Road",
+    "suburb": "Glen Eden"
+  },
+  {
+    "info": "Named before 1961, it was renamed Savoy Road from February 1969.",
+    "parsed_street": "Carlton Road",
+    "parsed_suburbs": ["Glen Eden"],
+    "street": "Carlton Road",
+    "suburb": "Glen Eden"
+  },
+  {
+    "info": "Noted by Waitemata County on 18 December 1925, and 17 February 1928.",
+    "parsed_street": "Cutting Grass Road",
+    "parsed_suburbs": ["Waipareira"],
+    "street": "Cutting Grass Road",
+    "suburb": "Waipareira"
+  },
+  {
+    "info": "The road leading to Henderson Domain from behind the Henderson railway station, dating from 1881.",
+    "parsed_street": "Domain Road",
+    "parsed_suburbs": ["Henderson"],
+    "street": "Domain Road",
+    "suburb": "Henderson"
+  },
+  {
+    "info": "Named before 1961, and renamed Ambler Avenue from February 1969.",
+    "parsed_street": "Fairview Road",
+    "parsed_suburbs": ["Glen Eden"],
+    "street": "Fairview Road",
+    "suburb": "Glen Eden"
+  },
+  {
+    "info": "In 1937 it was described as eight chains long, with six residences and named 15 years before (1922) after the governor general. From 1 March 1969 renamed as Copley Street.",
+    "parsed_street": "Fergusson Avenue",
+    "parsed_suburbs": ["New Lynn"],
+    "street": "Fergusson Avenue",
+    "suburb": "New Lynn"
+  },
+  {
+    "info": "This was South Street and was renamed George Street on 12 May 1958. George was a son of Thomas Henderson.",
+    "parsed_street": "George Street",
+    "parsed_suburbs": ["Henderson"],
+    "street": "George Street",
+    "suburb": "Henderson"
+  },
+  {
+    "info": "Named before 1961 after the large property \"The Grange\", which adjoined the catholic church.",
+    "parsed_street": "Grange Road",
+    "parsed_suburbs": ["Henderson"],
+    "street": "Grange Road",
+    "suburb": "Henderson"
+  },
+  {
+    "info": "Dating from the nineteenth century, the major land route north.",
+    "parsed_street": "Great North Road",
+    "parsed_suburbs": ["Waitākere"],
+    "street": "Great North Road",
+    "suburb": "Waitākere"
+  },
+  {
+    "info": "Named in 1923, and noted by Waitemata County on 17 February 1928, but gone by 1975.",
+    "parsed_street": "Hastings Road",
+    "parsed_suburbs": ["Laingholm"],
+    "street": "Hastings Road",
+    "suburb": "Laingholm"
+  },
+  {
+    "info": "Noted by Waitemata County on 17 February 1928.",
+    "parsed_street": "Heatherington Road",
+    "parsed_suburbs": ["Waipareira"],
+    "street": "Heatherington Road",
+    "suburb": "Waipareira"
+  },
+  {
+    "info": "This was named after Thomas Henderson's second son, in 1881.",
+    "parsed_street": "Henry Street",
+    "parsed_suburbs": ["Henderson"],
+    "street": "Henry Street",
+    "suburb": "Henderson"
+  },
+  {
+    "info": "Named before 1961. No doubt named after Sir Edmund Hillary, conqueror of Everest.",
+    "parsed_street": "Hillary Heights Avenue",
+    "parsed_suburbs": ["Kelston"],
+    "street": "Hillary Heights Avenue",
+    "suburb": "Kelston"
+  },
+  {
+    "info": "Noted by Waitemata County on 18 December 1925 and Hunter Road on 17 February 1928, but gone by 1975 (possibly into Rodney County).",
+    "parsed_street": "Hunters Road",
+    "parsed_suburbs": ["Rodney"],
+    "street": "Hunters Road",
+    "suburb": "Rodney"
+  },
+  {
+    "info": "Named after 1961 and renamed Kashmir before April 1975.",
+    "parsed_street": "Jenner Road",
+    "parsed_suburbs": ["Titirangi"],
+    "street": "Jenner Road",
+    "suburb": "Titirangi"
+  },
+  {
+    "info": "Named before 1961.",
+    "parsed_street": "Jonathan Street",
+    "parsed_suburbs": ["Henderson"],
+    "street": "Jonathan Street",
+    "suburb": "Henderson"
+  },
+  {
+    "info": "Noted by Waitemata County on 27 May 1954.",
+    "parsed_street": "Kare Kare Road",
+    "parsed_suburbs": ["Waikumete"],
+    "street": "Kare Kare Road",
+    "suburb": "Waikumete"
+  },
+  {
+    "info": "Renamed McLeod Road from 18 December 1958.",
+    "parsed_street": "Kelly's Ridge Road",
+    "parsed_suburbs": ["Te Atatū"],
+    "street": "Kelly's Ridge Road",
+    "suburb": "Te Atatū"
+  },
+  {
+    "info": "Formerly Kervil, it was renamed between 1952 and 1964 and then reverted to Kervil after then (source",
+    "parsed_street": "Kerr Avenue",
+    "parsed_suburbs": ["Te Atatū"],
+    "street": "Kerr Avenue",
+    "suburb": "Te Atatū"
+  },
+  {
+    "info": "Noted by Waitemata County on 17 February 1928.",
+    "parsed_street": "Knox Road",
+    "parsed_suburbs": ["Lincoln"],
+    "street": "Knox Road",
+    "suburb": "Lincoln"
+  },
+  {
+    "info": "Named before 1961.",
+    "parsed_street": "Kotare Street",
+    "parsed_suburbs": ["Henderson"],
+    "street": "Kotare Street",
+    "suburb": "Henderson"
+  },
+  {
+    "info": "Named before 1961, it was renamed Roland Hill Avenue after the first Post Master from February 1969, or 1 March 1971.",
+    "parsed_street": "Landscape Avenue",
+    "parsed_suburbs": ["Glen Eden"],
+    "street": "Landscape Avenue",
+    "suburb": "Glen Eden"
+  },
+  {
+    "info": "Named before 1961, it was absorbed into Evans Road from February 1969.",
+    "parsed_street": "Leamington Road",
+    "parsed_suburbs": ["Glen Eden"],
+    "street": "Leamington Road",
+    "suburb": "Glen Eden"
+  },
+  {
+    "info": "Named before 1961, for local Liverpool emigrants, it was renamed Tahi Terrace from February 1969.",
+    "parsed_street": "Liverpool Street",
+    "parsed_suburbs": ["Glen Eden"],
+    "street": "Liverpool Street",
+    "suburb": "Glen Eden"
+  },
+  {
+    "info": "Noted by Waitemata County on 27 May 1954.",
+    "parsed_street": "Lone Kauri Road",
+    "parsed_suburbs": ["Waikumete"],
+    "street": "Lone Kauri Road",
+    "suburb": "Waikumete"
+  },
+  {
+    "info": "From February 1969 renamed Woodvale Road.",
+    "parsed_street": "Lover's Lane",
+    "parsed_suburbs": ["Glen Eden"],
+    "street": "Lover's Lane",
+    "suburb": "Glen Eden"
+  },
+  {
+    "info": "Noted by Waitemata County on 17 February 1928, but gone by 1975.",
+    "parsed_street": "Lucerne Road",
+    "parsed_suburbs": ["Laingholm"],
+    "street": "Lucerne Road",
+    "suburb": "Laingholm"
+  },
+  {
+    "info": "Noted by Waitemata County on 17 February 1928.",
+    "parsed_street": "Main Road",
+    "parsed_suburbs": ["Waipareira"],
+    "street": "Main Road",
+    "suburb": "Waipareira"
+  },
+  {
+    "info": "Named 23 October 1956. From 1 March 1969 renamed as Kuaka Place.",
+    "parsed_street": "Manawa Road",
+    "parsed_suburbs": ["New Lynn"],
+    "street": "Manawa Road",
+    "suburb": "New Lynn"
+  },
+  {
+    "info": "Named before 1961.",
+    "parsed_street": "Monroe Road",
+    "parsed_suburbs": ["Henderson"],
+    "street": "Monroe Road",
+    "suburb": "Henderson"
+  },
+  {
+    "info": "Named 11 July 1955. From 1 March 1969 renamed as Kaweka Street.",
+    "parsed_street": "Ngaio Street",
+    "parsed_suburbs": ["New Lynn"],
+    "street": "Ngaio Street",
+    "suburb": "New Lynn"
+  },
+  {
+    "info": "Named before 1961.",
+    "parsed_street": "Nixon Road",
+    "parsed_suburbs": ["Waitākere"],
+    "street": "Nixon Road",
+    "suburb": "Waitākere"
+  },
+  {
+    "info": "Noted by Waitemata County as Nixon's Road on 17 February 1928.",
+    "parsed_street": "Nixon Road",
+    "parsed_suburbs": ["Te Atatū"],
+    "street": "Nixon Road",
+    "suburb": "Te Atatū"
+  },
+  {
+    "info": "Named before 1961.",
+    "parsed_street": "Nixon Road",
+    "parsed_suburbs": ["Waima"],
+    "street": "Nixon Road",
+    "suburb": "Waima"
+  },
+  {
+    "info": "Named before 1961.",
+    "parsed_street": "Oak Avenue",
+    "parsed_suburbs": ["Henderson"],
+    "street": "Oak Avenue",
+    "suburb": "Henderson"
+  },
+  {
+    "info": "Renamed Chrome Place between 1961 and April 1975.",
+    "parsed_street": "Olga Place",
+    "parsed_suburbs": ["Waitākere"],
+    "street": "Olga Place",
+    "suburb": "Waitākere"
+  },
+  {
+    "info": "Noted by Waitemata County on 27 May 1954.",
+    "parsed_street": "Park Bay Road",
+    "parsed_suburbs": ["Titirangi Beach"],
+    "street": "Park Bay Road",
+    "suburb": "Titirangi Beach"
+  },
+  {
+    "info": "Named before 1961.",
+    "parsed_street": "Rangeview Road",
+    "parsed_suburbs": ["Kelston"],
+    "street": "Rangeview Road",
+    "suburb": "Kelston"
+  },
+  {
+    "info": "Noted by Waitemata County on 17 February 1928.",
+    "parsed_street": "Rewa Road",
+    "parsed_suburbs": ["Waikumete"],
+    "street": "Rewa Road",
+    "suburb": "Waikumete"
+  },
+  {
+    "info": "Named before 1961.",
+    "parsed_street": "Ribblesdale Road",
+    "parsed_suburbs": ["Kelston"],
+    "street": "Ribblesdale Road",
+    "suburb": "Kelston"
+  },
+  {
+    "info": "In 1937 it was described as four chains long, and named 50 years before (1887). It was renamed Reid Road between 1930 and 1935.",
+    "parsed_street": "Russell Street",
+    "parsed_suburbs": ["New Lynn"],
+    "street": "Russell Street",
+    "suburb": "New Lynn"
+  },
+  {
+    "info": "Named between 1961 and April 1975.",
+    "parsed_street": "Saint Catherine Crescent",
+    "parsed_suburbs": ["Lincoln"],
+    "street": "Saint Catherine Crescent",
+    "suburb": "Lincoln"
+  },
+  {
+    "info": "Named between 1961 and April 1975.",
+    "parsed_street": "Scanlan Terrace",
+    "parsed_suburbs": ["Te Atatū"],
+    "street": "Scanlan Terrace",
+    "suburb": "Te Atatū"
+  },
+  {
+    "info": "Named before 1961.",
+    "parsed_street": "Second Avenue",
+    "parsed_suburbs": ["Henderson"],
+    "street": "Second Avenue",
+    "suburb": "Henderson"
+  },
+  {
+    "info": "Named before 1961.",
+    "parsed_street": "Shirley Avenue",
+    "parsed_suburbs": ["Kelston"],
+    "street": "Shirley Avenue",
+    "suburb": "Kelston"
+  },
+  {
+    "info": "South Street renamed George Street 12 May 1958.",
+    "parsed_street": "South Road",
+    "parsed_suburbs": ["Henderson"],
+    "street": "South Road",
+    "suburb": "Henderson"
+  },
+  {
+    "info": "In 1937 it was described as 15 chains long, with six residences and named 10 years before (1927). From 1 March 1969 renamed as Crum Avenue.",
+    "parsed_street": "Stanley Street",
+    "parsed_suburbs": ["New Lynn"],
+    "street": "Stanley Street",
+    "suburb": "New Lynn"
+  },
+  {
+    "info": "Named for the newly opened railway station serving Henderson's mill from 1881.",
+    "parsed_street": "Station Road",
+    "parsed_suburbs": ["Henderson"],
+    "street": "Station Road",
+    "suburb": "Henderson"
+  },
+  {
+    "info": "Named before 1961.",
+    "parsed_street": "Sunhill Road",
+    "parsed_suburbs": ["Kelston"],
+    "street": "Sunhill Road",
+    "suburb": "Kelston"
+  },
+  {
+    "info": "Named between 1943 and 1961. From 1 March 1969 renamed as Thom Street.",
+    "parsed_street": "Tawa Street",
+    "parsed_suburbs": ["New Lynn"],
+    "street": "Tawa Street",
+    "suburb": "New Lynn"
+  },
+  {
+    "info": "Noted by Waitemata County on 17 February 1928.",
+    "parsed_street": "Tui Glen Road",
+    "parsed_suburbs": ["Waikumete"],
+    "street": "Tui Glen Road",
+    "suburb": "Waikumete"
+  },
+  {
+    "info": "Named between 1961 and April 1975.",
+    "parsed_street": "Victoria Street",
+    "parsed_suburbs": ["Lincoln"],
+    "street": "Victoria Street",
+    "suburb": "Lincoln"
+  },
+  {
+    "info": "Noted by Waitemata County on 18 December 1925.",
+    "parsed_street": "West Coast Road",
+    "parsed_suburbs": ["Waikumete"],
+    "street": "West Coast Road",
+    "suburb": "Waikumete"
+  },
+  {
+    "info": "Named before 1930.",
+    "parsed_street": "Watea Street",
+    "parsed_suburbs": ["New Lynn"],
+    "street": "Watea Street",
+    "suburb": "New Lynn"
+  },
+  {
+    "info": "Named between 1961 and April 1975.",
+    "parsed_street": "Wharf Road",
+    "parsed_suburbs": ["Whenuapai"],
+    "street": "Wharf Road",
+    "suburb": "Whenuapai"
+  },
+  {
+    "info": "",
+    "parsed_street": "William Street",
+    "parsed_suburbs": ["Henderson"],
+    "street": "William Street",
+    "suburb": "Henderson"
+  }
+]

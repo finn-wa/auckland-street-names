@@ -1,0 +1,656 @@
+[
+  {
+    "street": "Silverdale Main Highway",
+    "suburb": "Albany; Dairy Flat",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Paremoremo Road",
+    "suburb": "Albany; Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Albany",
+    "suburb": "Riverhead Main Highway",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Annandale Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Ararimu Valley Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "Arkle's Bay Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Awa Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "Barrett Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Bayers Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Bell's Road",
+    "suburb": "Kaukapakapa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Berridge Road",
+    "suburb": "Kaukapakapa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Black Bridge Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Brandon Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Brixton Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Brown Street",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Cable Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Carter's Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Tahekeroa Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Duck Creek Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Escott's Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Evans Road",
+    "suburb": "Mairetahi",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "Fletcher's Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Fordyce's Road",
+    "suburb": "Mairetahi",
+    "info": "Noted by Waitemata County as Fordyce Road on 18 December 1925 and as Fordyce's Road on 17 February 1928."
+  },
+  {
+    "street": "Foster Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "Glanville Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Green's Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Hamilton Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Hand's Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Hanham's Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Wainui Main Highway",
+    "suburb": "Helensville",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Helensville Main Highway",
+    "suburb": "Henderson",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Hinau Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Hobson's Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Horseshoe Bush Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Hotsprings Road",
+    "suburb": "Mairetahu",
+    "info": "Noted by Waitemata County on 18 December 1925."
+  },
+  {
+    "street": "Riverhead Road",
+    "suburb": "Huapai; Kumeū",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "Station Road",
+    "suburb": "Huapai; Kumeū",
+    "info": "Noted by Waitemata County on 18 December 1925."
+  },
+  {
+    "street": "Huapai Main Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "Huapai Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Inland Road",
+    "suburb": "Kaukapakapa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Jack's Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Jordan's Road",
+    "suburb": "Kaukapakapa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Kahikatea Flat Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928, extending to Wray's gate."
+  },
+  {
+    "street": "Jagger's Clearing Road",
+    "suburb": "Kanohi; Kaukapakapa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Makarau Road",
+    "suburb": "Kanohi; Kaukapakapa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Karaka Street",
+    "suburb": "Mairetahi",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Kanohi Road",
+    "suburb": "Kaukapakapa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "West Coast Road",
+    "suburb": "Kaukapakapa",
+    "info": "Noted by Waitemata County on 17 February 1928, to Chubbins and then to County boundary."
+  },
+  {
+    "street": "Kauri Crescent Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Koraha Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "Kumeu Station Access Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "Lawrence Street",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Limeworks Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Mahana Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Mahonui Valley Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Komokoriki Road",
+    "suburb": "Makarau; Kaukapakapa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Tahekeroa Road",
+    "suburb": "Makarau; Kaukapakapa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Wainui Road",
+    "suburb": "Makarau; Kaukapakapa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "West Coast Road",
+    "suburb": "Makarau; Kaukapakapa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Mangakura Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "Massey Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Matatea Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Matua Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "McLaughlan's Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Mill Flat Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Motu Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "Motutara Road",
+    "suburb": "Waimauku",
+    "info": "Noted by Waitemata County on 18 December 1925."
+  },
+  {
+    "street": "Muriwai - School Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 18 December 1925."
+  },
+  {
+    "street": "Muriwai Settlement Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Muriwai Valley Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Museum Endowment Mountain Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 18 December 1925."
+  },
+  {
+    "street": "Museum Endowment Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "Old North Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Waiwera Main Highway",
+    "suburb": "Orewa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Oyster Point Road",
+    "suburb": "Kaukapakapa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Paekawau Road",
+    "suburb": "Mairetahi",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Parakai Avenue",
+    "suburb": "Mairetahi",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Parkhurst Road",
+    "suburb": "Mairetahi",
+    "info": "Noted by Waitemata County on 17 February 1928, stretching from Bridge to Tarawera Road."
+  },
+  {
+    "street": "Peak Road",
+    "suburb": "Kaukapakapa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Pilchers Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Polkinghornes Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Pomona Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "Post Office Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Postman's Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Puhunuhinu Road",
+    "suburb": "Mairetahi",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Puke Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Rapson's Road",
+    "suburb": "Kaukapakapa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Rawhiti Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Red Beach Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Ridge Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Rimmer's Road",
+    "suburb": "Mairetahi",
+    "info": "Noted by Waitemata County as Rimmer Road on 18 December 1925 and as Rimmer's Road on 17 February 1928."
+  },
+  {
+    "street": "Brigham's Creek Road",
+    "suburb": "Kumeū; Riverhead",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "Riverhead Township Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Sainsbury Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "School Road",
+    "suburb": "Waimauku",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Seaview Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Shelly Beach Road",
+    "suburb": "Mairetahi",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Sidwells Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Orewa Main Highway",
+    "suburb": "Silverdale",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Redvale Road",
+    "suburb": "Pukeatua; Silverdale",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Upper Orewa Road",
+    "suburb": "Wainui; Silverdale",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Tiri Tiri Road",
+    "suburb": "Wainui; Silverdale; Whangaparāoa",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "South Head Road",
+    "suburb": "Mairetahi",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "Spring's Road",
+    "suburb": "Mairetahi",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Stanmore Bay Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Station Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Stoney Creek Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Stoney's Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Storey's Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Sunnyside Farm Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Taha Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Taipa Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Tarawera Road",
+    "suburb": "Mairetahi",
+    "info": "Noted by Waitemata County on 18 December 1925 and 17 February 1928."
+  },
+  {
+    "street": "Tarrant Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Te Moau Avenue",
+    "suburb": "Mairetahi",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Te Pua School Road",
+    "suburb": "Mairetahi",
+    "info": "Noted by Waitemata County as Te Pua Road on 18 December 1925 and Te Pua School Road on 17 February 1928."
+  },
+  {
+    "street": "The Crescent",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "The Esplanade",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Tiri Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Trig Point Road",
+    "suburb": "Pukeatua",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Wainui Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Waiwera Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Waiwera Main Highway",
+    "suburb": "Upper Waiwera",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Waikoukou Road",
+    "suburb": "Waimauku",
+    "info": "Noted by Waitemata County on 18 December 1925."
+  },
+  {
+    "street": "Upper Waiwera Main Highway",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Waiwera Avenue",
+    "suburb": "Mairetahi",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Walton Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "West Coast Road",
+    "suburb": "Kumeū",
+    "info": "Noted by Waitemata County on 17 February 1928, Waimauku section on 18 December 1925."
+  },
+  {
+    "street": "West Hoe Road",
+    "suburb": "Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Wainui Road",
+    "suburb": "Pukeatua; White Hills",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  },
+  {
+    "street": "Zealandia Road - Wainui",
+    "info": "Noted by Waitemata County on 17 February 1928."
+  }
+]

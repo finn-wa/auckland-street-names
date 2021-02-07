@@ -1,0 +1,492 @@
+[
+  {
+    "info": "Around 1917, then Patey Street (1917/1918).",
+    "parsed_street": "Alfred Street (3)",
+    "parsed_suburbs": ["Remuera"],
+    "street": "Alfred Street (3)",
+    "suburb": "Remuera"
+  },
+  {
+    "info": "Named after a local family.",
+    "parsed_street": "Allen Road (2)",
+    "parsed_suburbs": ["Onehunga"],
+    "street": "Allen Road (2)",
+    "suburb": "Onehunga"
+  },
+  {
+    "info": "Now ? Amy Street in 1937, but name change suggested as there was already Amy Street in Ellerslie.",
+    "parsed_street": "Amy Street (2)",
+    "parsed_suburbs": ["Pt Chevalier"],
+    "street": "Amy Street (2)",
+    "suburb": "Pt Chevalier"
+  },
+  {
+    "info": "Proposed name Maryland Street (1926), not formed.",
+    "parsed_street": "Arthur Street (6)",
+    "parsed_suburbs": ["Pt Chevalier"],
+    "street": "Arthur Street (6)",
+    "suburb": "Pt Chevalier"
+  },
+  {
+    "info": "Name changed to Alleway Street (from 22/9/1932), then stopped (part. Blockhouse Bay reserve).",
+    "parsed_street": "Ayr Street (2)",
+    "parsed_suburbs": ["Avondale"],
+    "street": "Ayr Street (2)",
+    "suburb": "Avondale"
+  },
+  {
+    "info": "Formed in 1921, and named after a large town in Kent.",
+    "parsed_street": "Beckenham Avenue",
+    "parsed_suburbs": ["Epsom"],
+    "street": "Beckenham Avenue",
+    "suburb": "Epsom"
+  },
+  {
+    "info": "Proposed, not formed.",
+    "parsed_street": "Bedford Street (4)",
+    "parsed_suburbs": ["Pt Chevalier"],
+    "street": "Bedford Street (4)",
+    "suburb": "Pt Chevalier"
+  },
+  {
+    "info": "Noted in 1937 as clashing with Chester Avenue in Grey Lynn. Now named?",
+    "parsed_street": "Chester Avenue (2)",
+    "parsed_suburbs": ["Mt Roskill"],
+    "street": "Chester Avenue (2)",
+    "suburb": "Mt Roskill"
+  },
+  {
+    "info": "Now named?",
+    "parsed_street": "Clarke Road (2)",
+    "parsed_suburbs": ["Ellerslie"],
+    "street": "Clarke Road (2)",
+    "suburb": "Ellerslie"
+  },
+  {
+    "info": "Was in subdivision South West corner Churchill Street and Neilson Street. Note in 1937.",
+    "parsed_street": "Coates Road",
+    "parsed_suburbs": ["One Tree Hill", "Penrose"],
+    "street": "Coates Road",
+    "suburb": "One Tree Hill; Penrose"
+  },
+  {
+    "info": "Existing road to N end of Awana Bay along S side DP 76703 Great Barrier Island (named 2/1993). Named after a local family.",
+    "parsed_street": "Curreen Road",
+    "parsed_suburbs": ["Great Barrier Island"],
+    "street": "Curreen Road",
+    "suburb": "Great Barrier Island"
+  },
+  {
+    "info": "Named 2/12/1964, became Stoneyroyd Gardens before any houses built (20/9/1965).",
+    "parsed_street": "Davy Place",
+    "parsed_suburbs": ["Remuera"],
+    "street": "Davy Place",
+    "suburb": "Remuera"
+  },
+  {
+    "info": "Became Albert Street from around 1897, part now regional road, part Alba Road. Name in existence 4/8/1848 (Deeds 2D/856).",
+    "parsed_street": "Derby Street (1)",
+    "parsed_suburbs": ["Epsom"],
+    "street": "Derby Street (1)",
+    "suburb": "Epsom"
+  },
+  {
+    "info": "Proposed cul-de-sac off Rosebank Road, south of Patiki Road (18/5/1967).",
+    "parsed_street": "Dundas Place",
+    "parsed_suburbs": ["Avondale"],
+    "street": "Dundas Place",
+    "suburb": "Avondale"
+  },
+  {
+    "info": "The father of English Methodist John Wesley was vicar of Epworth in England. Previously Pah Avenue.",
+    "parsed_street": "Epworth Avenue",
+    "parsed_suburbs": ["Epsom"],
+    "street": "Epworth Avenue",
+    "suburb": "Epsom"
+  },
+  {
+    "info": "In 1937 described as 1/4 mile long, with 11 residences and named 20 years before (1917). Now Ferncroft Street (from 8/6/1939).",
+    "parsed_street": "Ferncroft Street",
+    "parsed_suburbs": ["Ellerslie"],
+    "street": "Ferndale Road",
+    "suburb": "Ellerslie"
+  },
+  {
+    "info": "Also known as French Street.",
+    "parsed_street": "French Road",
+    "parsed_suburbs": ["Great Barrier Island"],
+    "street": "French Road",
+    "suburb": "Great Barrier Island"
+  },
+  {
+    "info": "Formed around 1921, and noted in 1937 it thern became Katoa Street.",
+    "parsed_street": "George Street (7)",
+    "parsed_suburbs": ["Pt Chevalier"],
+    "street": "George Street (7)",
+    "suburb": "Pt Chevalier"
+  },
+  {
+    "info": "Named 29/5/1996, off Goodland Street. Named after a former Mayor of One Tree Hill, L.J. Goldstine (1931-47). Formed when the former Transport Board Workshops site was subdivided.",
+    "parsed_street": "Goldstine Place",
+    "parsed_suburbs": ["Epsom"],
+    "street": "Goldstine Place",
+    "suburb": "Epsom"
+  },
+  {
+    "info": "Gould around 1958, but not formed around 1968, was off Kohimarama Road and opposite Allum Street, in vicinity John Rymer Place.",
+    "parsed_street": "Gould Street",
+    "parsed_suburbs": ["Kohimarama"],
+    "street": "Gould Street",
+    "suburb": "Kohimarama"
+  },
+  {
+    "info": "Named pre 1866, part Khyber Pass Road to Manukau Road now Broadway around 1921.",
+    "parsed_street": "Broadway",
+    "parsed_suburbs": ["Remuera"],
+    "street": "Great South Road",
+    "suburb": "Remuera"
+  },
+  {
+    "info": "Proposed, off Bell Road, not formed. In 1937 it was noted that the name had been changed to Woodville Road.",
+    "parsed_street": "Grey Street (3)",
+    "parsed_suburbs": ["Remuera"],
+    "street": "Grey Street (3)",
+    "suburb": "Remuera"
+  },
+  {
+    "info": "Unformed and probably named after the owner of the farm in this area. In 1937 this Hillsborough road is described as being named 15 years before (1922).",
+    "parsed_street": "Hill Road (2)",
+    "parsed_suburbs": ["Mt Roskill"],
+    "street": "Hill Road (2)",
+    "suburb": "Mt Roskill"
+  },
+  {
+    "info": "Now Kaiarara Road (10/3/1994). Great Barrier Island.",
+    "parsed_street": "Kaiarara Road",
+    "parsed_suburbs": ["Great Barrier Island"],
+    "street": "Kaiarara Bay Road",
+    "suburb": "Great Barrier Island"
+  },
+  {
+    "info": "previously Kaiarara Road (10/3/1994).",
+    "parsed_street": "Kaiaraaru Bay Road",
+    "parsed_suburbs": ["Great Barrier Island"],
+    "street": "Kaiaraaru Bay Road",
+    "suburb": "Great Barrier Island"
+  },
+  {
+    "info": "Previously Kitchener Hamlet around 1917, it became Kitchener Road around 1919, then Holly St (from 22/9/1932).",
+    "parsed_street": "Kitchener Road (2)",
+    "parsed_suburbs": ["Avondale"],
+    "street": "Kitchener Road (2)",
+    "suburb": "Avondale"
+  },
+  {
+    "info": "Was in Waitakere City, near boundary with Auckland City.",
+    "parsed_street": "Kiwi Street (3)",
+    "parsed_suburbs": ["Waitakere"],
+    "street": "Kiwi Street (3)",
+    "suburb": "Waitakere"
+  },
+  {
+    "info": "Formed in 1995 in the Westfield Industrial Park and named after the Lockhart family, members of whom were employed for many years at the Westfield Freezing Works. (Otahuhu Historical Society). Named after a former head stockman at the Westfield freezing works (27/6/1995). Note, it is not Lockhert as previously advised.",
+    "parsed_street": "Lockhart Place",
+    "parsed_suburbs": ["Otahuhu"],
+    "street": "Lockhart Place",
+    "suburb": "Otahuhu"
+  },
+  {
+    "info": "Now part. Erson Avenue.",
+    "parsed_street": "McLeod Avenue",
+    "parsed_suburbs": ["Onehunga"],
+    "street": "McLeod Avenue",
+    "suburb": "Onehunga"
+  },
+  {
+    "info": "Named after an early settler in the area, Edward McLennan, who owned land down to the Tamaki River. It was originally called Waterview Road. (Otahuhu Historical Society).",
+    "parsed_street": "McLennan Road",
+    "parsed_suburbs": ["Otahuhu"],
+    "street": "McLennan Road",
+    "suburb": "Otahuhu"
+  },
+  {
+    "info": "Now stopped, was between Hill and Catherine Sts. In 1937 it was described as 50 yards long, and named 70 years before (1867).",
+    "parsed_street": "May Street",
+    "parsed_suburbs": ["Onehunga"],
+    "street": "May Street",
+    "suburb": "Onehunga"
+  },
+  {
+    "info": "Now stopped, was off Liverpool St, became Partington St (from 8/6/1939). In 1937 it was described as 75 yards long, with 1 business premises and 4 residences. Partington's Mill was removed in 1951, almost 100 years after it was built.",
+    "parsed_street": "Mill Street/Road (1)",
+    "parsed_suburbs": ["Auckland Central"],
+    "street": "Mill Street/Road (1)",
+    "suburb": "Auckland Central"
+  },
+  {
+    "info": "In 1937 it was described as 220 yards long, with 10 residences and named 50 years before (1887). Now Matipo St. Mill Street also now part Neilson St, Alfred St to Galway St.",
+    "parsed_street": "Matipo St",
+    "parsed_suburbs": ["Onehunga"],
+    "street": "Mill Street (2)",
+    "suburb": "Onehunga"
+  },
+  {
+    "info": "Now stopped, was off Belvedere St.",
+    "parsed_street": "Mount Street (3)",
+    "parsed_suburbs": ["One Tree Hill"],
+    "street": "Mount Street (3)",
+    "suburb": "One Tree Hill"
+  },
+  {
+    "info": "Became Orini St, now closed, was between Queenstown Road and Pleasant St. Onehunga High School site.",
+    "parsed_street": "Myrtle Street (2)",
+    "parsed_suburbs": ["Onehunga"],
+    "street": "Myrtle Street (2)",
+    "suburb": "Onehunga"
+  },
+  {
+    "info": "The Panama estate, which belonged to Sophia Middleton Ryburn and the daughter of James Hamlin, was subdivided and named at the time of the opening of the Panama Canal in 1914. (Otahuhu Historical Society). In 1937 it was described as having 17 residences.",
+    "parsed_street": "Panama Road",
+    "parsed_suburbs": ["Otahuhu"],
+    "street": "Panama Road",
+    "suburb": "Otahuhu"
+  },
+  {
+    "info": "Included on a 15 February 1906 plan for a proposed \"Town of Grand Park\", between Green Lane, Wheturangi, Great South and Campbell Roads. A 1929 photograph has it instead as Puriri Avenue, and that is written over the 1906 plan. It was likely changed in 1921 - according to street directories.",
+    "parsed_street": "Rahiri Road (2)",
+    "parsed_suburbs": ["One Tree Hill"],
+    "street": "Rahiri Road (2)",
+    "suburb": "One Tree Hill"
+  },
+  {
+    "info": "Named after the native shrub.",
+    "parsed_street": "Rangiora Road",
+    "parsed_suburbs": ["Greenlane"],
+    "street": "Rangiora Road",
+    "suburb": "Greenlane"
+  },
+  {
+    "info": "Accessway.",
+    "parsed_street": "Reilly Place (to south)",
+    "parsed_suburbs": ["Tamaki"],
+    "street": "Reilly Place (to south)",
+    "suburb": "Tamaki"
+  },
+  {
+    "info": "Now Tanekaha St.",
+    "parsed_street": "Tanekaha St",
+    "parsed_suburbs": ["Mt Wellington"],
+    "street": "Roberts Avenue",
+    "suburb": "Mt Wellington"
+  },
+  {
+    "info": "Noted in 1937 it was off the west side of Maurice Road, now stopped.",
+    "parsed_street": "Robertson Road",
+    "parsed_suburbs": ["One Tree Hill", "Penrose"],
+    "street": "Robertson Road",
+    "suburb": "One Tree Hill; Penrose"
+  },
+  {
+    "info": "Off Landscape Road, now closed",
+    "parsed_street": "Rona Camp Road",
+    "parsed_suburbs": ["Mt Roskill"],
+    "street": "Rona Camp Road",
+    "suburb": "Mt Roskill"
+  },
+  {
+    "info": "Formed around 1912 and noted in 1937, it was off Rosebank Road. It no longer exists, and was where school grounds are now.",
+    "parsed_street": "Rose Road (3)",
+    "parsed_suburbs": ["Avondale"],
+    "street": "Rose Road (3)",
+    "suburb": "Avondale"
+  },
+  {
+    "info": "Building Line Restriction New Zealand Gazette 1946/970. Part was originally Temperance Terrace from around 1870, which then became Seddon Road around 1917, then Volkner Avenue to 8/6/1939, and finally became part of St Vincent Avenue from 18/12/1941.\n\nThe Auckland Waikato Historical Journal of September 1986, page 35, says Temperance Terrace was named by Joseph Newman, and eventually named Saint Vincent after the battle of Cape Saint Vincent.",
+    "parsed_street": "Seddon Road",
+    "parsed_suburbs": ["Remuera"],
+    "street": "Seddon Road",
+    "suburb": "Remuera"
+  },
+  {
+    "info": "Now stopped. Became Ngahue Road (from 22/9/1932).",
+    "parsed_street": "Selwyn Road (2)",
+    "parsed_suburbs": ["St Johns"],
+    "street": "Selwyn Road (2)",
+    "suburb": "St.Johns"
+  },
+  {
+    "info": "Now Mahuru St (1917/1919).",
+    "parsed_street": "Mahuru St",
+    "parsed_suburbs": ["Remuera"],
+    "street": "Spring Street (3)",
+    "suburb": "Remuera"
+  },
+  {
+    "info": "Now stopped, part Blockhouse Bay Reserve. Also spelt Steward.",
+    "parsed_street": "Stewart Street (3)",
+    "parsed_suburbs": ["Avondale"],
+    "street": "Stewart Street (3)",
+    "suburb": "Avondale"
+  },
+  {
+    "info": "Formed in 1934 to connect Great South Road with the Mount Wellington Highway at Westfield. Named after Lord Vestey, the English owners of the Westfield Freezing Company. (Otahuhu Historical Society).",
+    "parsed_street": "Vestey Drive",
+    "parsed_suburbs": ["Otahuhu"],
+    "street": "Vestey Drive",
+    "suburb": "Otahuhu"
+  },
+  {
+    "info": "Was Corunna Avenue, then reverted (from 18/12/1941). Named after soldier Major. Von Tempsky.",
+    "parsed_street": "Von Tempsky Street",
+    "parsed_suburbs": ["Parnell"],
+    "street": "Von Tempsky Street",
+    "suburb": "Parnell"
+  },
+  {
+    "info": "Formed in 1995, a street in the Westfield Industrial Park. (Otahuhu Historical Society). Off Vestey Drive. Named after the former freezing works on the site.",
+    "parsed_street": "Westfield Place",
+    "parsed_suburbs": ["Otahuhu"],
+    "street": "Westfield Place",
+    "suburb": "Otahuhu"
+  },
+  {
+    "info": "Became part Blockhouse Bay Road, Donovan Street to Blockhouse Bay, became Windermere Road (from 22/9/1932).",
+    "parsed_street": "Wynyard Street (2)",
+    "parsed_suburbs": ["Blockhouse Bay"],
+    "street": "Wynyard Street (2)",
+    "suburb": "Blockhouse Bay"
+  },
+  {
+    "info": "Private road off Amazon Parade. Named 20/5/1997, confirmed 5/1/1998.",
+    "parsed_street": "Zeralto Lane",
+    "parsed_suburbs": ["Mt Albert"],
+    "street": "Zeralto Lane",
+    "suburb": "Mt Albert"
+  },
+  {
+    "info": "Private road off Amazon Parade. Named 20/5/1997, confirmed 5/1/1998.",
+    "parsed_street": "Zambezi Lane",
+    "parsed_suburbs": ["Mt Albert"],
+    "street": "Zambezi Lane",
+    "suburb": "Mt Albert"
+  },
+  {
+    "info": "Private road off Amazon Parade. Named 20/5/1997, confirmed 5/1/1998.",
+    "parsed_street": "Zamora Lane",
+    "parsed_suburbs": ["Mt Albert"],
+    "street": "Zamora Lane",
+    "suburb": "Mt Albert"
+  },
+  {
+    "info": "Became Middlesex Road from 1932.",
+    "parsed_street": "Cameron Street (7)",
+    "parsed_suburbs": ["Waterview"],
+    "street": "Cameron Street (7)",
+    "suburb": "Waterview"
+  },
+  {
+    "info": "John McArthur was the Presbyterian Minister in Otahuhu from 1914 to 1921. Prior to 1921 this Street was known as Weka Street, then it became McArthur Street, and reverted to Weka Street in 1927. (Otahuhu Historical Society).",
+    "parsed_street": "McArthur Street",
+    "parsed_suburbs": ["Otahuhu"],
+    "street": "McArthur Street",
+    "suburb": "Otahuhu"
+  },
+  {
+    "info": "At the Station Road end of Nikau Road. It was included as part of Nikau Road in 1927. (Otahuhu Historical Society).",
+    "parsed_street": "New Street",
+    "parsed_suburbs": ["Otahuhu"],
+    "street": "New Street",
+    "suburb": "Otahuhu"
+  },
+  {
+    "info": "Maori for \"wandering albatross\", it was off Tui Street and west of Kiwi Street. It was shown on an old Railway map. (Otahuhu Historical Society).",
+    "parsed_street": "Toroa Street",
+    "parsed_suburbs": ["Otahuhu"],
+    "street": "Toroa Street",
+    "suburb": "Otahuhu"
+  },
+  {
+    "info": "This was off Saleyards Road, and was possibly named after Rev. S. Ward the first clergyman identified with Otahuhu. He was also a school teacher. (Otahuhu Historical Society).",
+    "parsed_street": "Ward Street",
+    "parsed_suburbs": ["Otahuhu"],
+    "street": "Ward Street",
+    "suburb": "Otahuhu"
+  },
+  {
+    "info": "A small cul-de-sac off the south side of Luke Street between Hutton and Albert Streets. The McAnulty name has been well known in Otahuhu since the Fencible period. In 1926 a secondary residential road, it is undedicated. (Otahuhu Historical Society).",
+    "parsed_street": "McAnulty Street",
+    "parsed_suburbs": ["Otahuhu"],
+    "street": "McAnulty Street",
+    "suburb": "Otahuhu"
+  },
+  {
+    "info": "A private road off the Great South Road servicing Westfield Freezing Company housing. Until 1924 known as \"The Avenue\". (Otahuhu Historical Society).",
+    "parsed_street": "Sylvia Avenue",
+    "parsed_suburbs": ["Otahuhu"],
+    "street": "Sylvia Avenue",
+    "suburb": "Otahuhu"
+  },
+  {
+    "info": "In 1937 described as 1/4 mile long and having had that name for 10 years (1927). Likely changed by the Mount Wellington Road Board as it clashed with Blake Street in Ponsonby.",
+    "parsed_street": "Blake Street",
+    "parsed_suburbs": ["Mt Wellington"],
+    "street": "Blake Street",
+    "suburb": "Mt Wellington"
+  },
+  {
+    "info": "Noted in 1937.",
+    "parsed_street": "Herbert Street",
+    "parsed_suburbs": ["Panmure"],
+    "street": "Herbert Street",
+    "suburb": "Panmure"
+  },
+  {
+    "info": "Noted in 1937.",
+    "parsed_street": "King Street",
+    "parsed_suburbs": ["Ellerslie"],
+    "street": "King Street",
+    "suburb": "Ellerslie"
+  },
+  {
+    "info": "In 1937 described as 225 yards long, and named 40 years before (1897), now?",
+    "parsed_street": "Myrtle Street",
+    "parsed_suburbs": ["Mt Roskill"],
+    "street": "Myrtle Street",
+    "suburb": "Mt Roskill"
+  },
+  {
+    "info": "Noted in 1937, now?",
+    "parsed_street": "Plunket Road",
+    "parsed_suburbs": ["Ellerslie"],
+    "street": "Plunket Road",
+    "suburb": "Ellerslie"
+  },
+  {
+    "info": "Noted in 1937, now?",
+    "parsed_street": "Riverdale Road",
+    "parsed_suburbs": ["Ellerslie"],
+    "street": "Riverdale Road",
+    "suburb": "Ellerslie"
+  },
+  {
+    "info": "In 1937 described as 120 yards long, with 4 residences and named 40 years before (1897). Now?",
+    "parsed_street": "Summer Street",
+    "parsed_suburbs": ["Mt Roskill"],
+    "street": "Summer Street",
+    "suburb": "Mt Roskill"
+  },
+  {
+    "info": "Approved as an unformed public road between Primrose Hill Road and Station Rock Road on 19 May 2005. It is a walking track only, with no vehicular access, and is located in a kowhai tree lined valley.",
+    "parsed_street": "Kowhai Valley Track",
+    "parsed_suburbs": ["Great Barrier Island"],
+    "street": "Kowhai Valley Track",
+    "suburb": "Great Barrier Island"
+  },
+  {
+    "info": "Name approved 26 June 2007 for a new public road off the Mount Wellington Highway at 315-375. Raupo huts were used by the Fencibles (discharged UK soldiers brought to New Zealand in the 1848 to 1852 period) while waiting for their promised cottages to be built. Cancelled as of 5 September 2011, as the development layout has changed and the road now superfluous.",
+    "parsed_street": "Raupo Place",
+    "parsed_suburbs": ["Mt Wellington"],
+    "street": "Raupo Place",
+    "suburb": "Mt Wellington"
+  }
+]

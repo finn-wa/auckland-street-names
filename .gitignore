@@ -1,0 +1,13 @@
+# General
+.vscode
+*.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv
+.mypy_cache/
+.dmypy.json
+dmypy.json
